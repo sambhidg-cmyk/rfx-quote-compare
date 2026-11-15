@@ -1,0 +1,274 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "price_uom": {
+          "value": "PACK",
+          "locator": "p.2 line 39",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "per 100 pcs"
+        },
+        "currency": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*",
+          "value": "Rs.",
+          "confidence": "high",
+          "locator": "p.2 line 8"
+        },
+        "unit_price": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "48.33",
+          "confidence": "high",
+          "value": 48.33,
+          "locator": "p.2 line 40"
+        },
+        "pack_size": {
+          "locator": "p.2 line 39",
+          "value": 100,
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "snippet": "per 100 pcs"
+        },
+        "status": "quoted",
+        "line_id": "L21"
+      },
+      {
+        "status": "quoted",
+        "pack_size": {
+          "value": 100,
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 44",
+          "snippet": "per 100 pcs",
+          "confidence": "high"
+        },
+        "currency": {
+          "locator": "p.2 line 8",
+          "confidence": "high",
+          "value": "Rs.",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*"
+        },
+        "price_uom": {
+          "snippet": "per 100 pcs",
+          "value": "PACK",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 44",
+          "confidence": "high"
+        },
+        "line_id": "L22",
+        "unit_price": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "94.21",
+          "locator": "p.2 line 45",
+          "confidence": "high",
+          "value": 94.21
+        }
+      },
+      {
+        "unit_price": {
+          "snippet": "196.62",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "value": 196.62,
+          "locator": "p.2 line 51"
+        },
+        "price_uom": {
+          "value": "KG",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "per kg",
+          "locator": "p.2 line 50",
+          "confidence": "high"
+        },
+        "line_id": "L23",
+        "status": "quoted",
+        "currency": {
+          "confidence": "high",
+          "locator": "p.2 line 8",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*",
+          "value": "Rs."
+        }
+      },
+      {
+        "unit_price": {
+          "snippet": "217.41",
+          "value": 217.41,
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 56"
+        },
+        "line_id": "L24",
+        "currency": {
+          "locator": "p.2 line 8",
+          "value": "Rs.",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "locator": "p.2 line 55",
+          "value": "KG",
+          "confidence": "high",
+          "snippet": "per kg",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "status": "quoted"
+      },
+      {
+        "currency": {
+          "locator": "p.2 line 8",
+          "confidence": "high",
+          "value": "Rs.",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*"
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "value": "EA",
+          "locator": "p.2 line 60"
+        },
+        "status": "quoted",
+        "line_id": "L25",
+        "unit_price": {
+          "value": 96.29,
+          "locator": "p.2 line 61",
+          "snippet": "96.29",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        }
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "locator": "p.2 line 65",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "value": "EA",
+          "snippet": "per pc"
+        },
+        "currency": {
+          "locator": "p.2 line 8",
+          "value": "Rs.",
+          "confidence": "high",
+          "snippet": "Rate (Rs.)*",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "line_id": "L26",
+        "unit_price": {
+          "locator": "p.2 line 66",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "snippet": "117.98",
+          "value": 117.98
+        }
+      },
+      {
+        "line_id": "L27",
+        "status": "quoted",
+        "unit_price": {
+          "source_file": "quote_letterhead.pdf",
+          "value": 706.28,
+          "locator": "p.2 line 72",
+          "confidence": "high",
+          "snippet": "706.28"
+        },
+        "currency": {
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 8",
+          "value": "Rs.",
+          "confidence": "high",
+          "snippet": "Rate (Rs.)*"
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "confidence": "high",
+          "value": "EA",
+          "locator": "p.2 line 71",
+          "source_file": "quote_letterhead.pdf"
+        }
+      },
+      {
+        "line_id": "L28",
+        "price_uom": {
+          "confidence": "high",
+          "locator": "p.2 line 76",
+          "value": "EA",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "per pc"
+        },
+        "unit_price": {
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "snippet": "1,495.83",
+          "locator": "p.2 line 77",
+          "value": 1495.83
+        },
+        "currency": {
+          "confidence": "high",
+          "locator": "p.2 line 8",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "Rate (Rs.)*",
+          "value": "Rs."
+        },
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "value": 98.92,
+          "locator": "p.2 line 82",
+          "snippet": "98.92",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high"
+        },
+        "line_id": "L29",
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "snippet": "per pc",
+          "locator": "p.2 line 81",
+          "value": "EA"
+        },
+        "currency": {
+          "locator": "p.2 line 8",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.)*",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        }
+      },
+      {
+        "unit_price": {
+          "value": 40.52,
+          "snippet": "40.52",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "locator": "p.2 line 88"
+        },
+        "currency": {
+          "snippet": "Rate (Rs.)*",
+          "value": "Rs.",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 8",
+          "confidence": "high"
+        },
+        "line_id": "L30",
+        "status": "quoted",
+        "price_uom": {
+          "snippet": "per sq m",
+          "confidence": "high",
+          "value": "SQM",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 87"
+        }
+      }
+    ]
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "lines L21..L30"
+}

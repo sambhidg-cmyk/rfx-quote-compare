@@ -1,0 +1,260 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "unit_price": {
+          "confidence": "high",
+          "value": 13.52,
+          "snippet": "13.52",
+          "locator": "p.1 line 11",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "line_id": "L01",
+        "price_uom": {
+          "locator": "p.1 line 10",
+          "snippet": "per pc",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "EA",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "currency": {
+          "locator": "p.1 line 7",
+          "value": "Rs.",
+          "confidence": "high",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        }
+      },
+      {
+        "price_uom": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "per pc",
+          "locator": "p.1 line 14"
+        },
+        "currency": {
+          "locator": "p.1 line 7",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "value": "Rs."
+        },
+        "unit_price": {
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 15",
+          "snippet": "18.65",
+          "value": 18.65
+        },
+        "status": "quoted",
+        "line_id": "L02"
+      },
+      {
+        "line_id": "L03",
+        "status": "quoted",
+        "unit_price": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "24.15",
+          "locator": "p.1 line 19",
+          "confidence": "high",
+          "value": 24.15
+        },
+        "price_uom": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "per pc",
+          "locator": "p.1 line 18"
+        },
+        "currency": {
+          "value": "Rs.",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "locator": "p.1 line 7",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "high",
+          "value": "Rs.",
+          "locator": "p.1 line 7",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "Rate (Rs.) FY 2025-26"
+        },
+        "price_uom": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 22",
+          "value": "EA",
+          "snippet": "per pc"
+        },
+        "line_id": "L04",
+        "unit_price": {
+          "locator": "p.1 line 23",
+          "snippet": "26.42",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": 26.42
+        },
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "locator": "p.1 line 26",
+          "confidence": "high",
+          "snippet": "per pc",
+          "value": "EA",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "currency": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 7",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.) FY 2025-26"
+        },
+        "line_id": "L05",
+        "unit_price": {
+          "locator": "p.1 line 27",
+          "snippet": "9.17",
+          "confidence": "high",
+          "value": 9.17,
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "line_id": "L06",
+        "unit_price": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 31",
+          "value": 48.33,
+          "snippet": "48.33"
+        },
+        "price_uom": {
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "p.1 line 30",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high"
+        },
+        "currency": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "Rs.",
+          "confidence": "high",
+          "locator": "p.1 line 7",
+          "snippet": "Rate (Rs.) FY 2025-26"
+        }
+      },
+      {
+        "line_id": "L07",
+        "unit_price": {
+          "locator": "p.1 line 35",
+          "value": 55.82,
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "55.82"
+        },
+        "status": "quoted",
+        "currency": {
+          "confidence": "high",
+          "locator": "p.1 line 7",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "price_uom": {
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "p.1 line 34",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "high",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "value": "Rs.",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 7"
+        },
+        "unit_price": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "39.61",
+          "confidence": "high",
+          "value": 39.61,
+          "locator": "p.1 line 39"
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 38",
+          "value": "EA"
+        },
+        "status": "quoted",
+        "line_id": "L08"
+      },
+      {
+        "unit_price": {
+          "value": 111.88,
+          "locator": "p.1 line 43",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "111.88"
+        },
+        "currency": {
+          "locator": "p.1 line 7",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "price_uom": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 42",
+          "snippet": "per pc",
+          "value": "EA"
+        },
+        "status": "quoted",
+        "line_id": "L09"
+      },
+      {
+        "unit_price": {
+          "snippet": "127.67",
+          "value": 127.67,
+          "locator": "p.1 line 47",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "snippet": "per pc",
+          "locator": "p.1 line 46",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "EA",
+          "confidence": "high"
+        },
+        "currency": {
+          "value": "Rs.",
+          "confidence": "high",
+          "locator": "p.1 line 7",
+          "snippet": "Rate (Rs.) FY 2025-26",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "line_id": "L10"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L01..L10"
+}

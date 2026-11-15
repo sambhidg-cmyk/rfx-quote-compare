@@ -1,0 +1,281 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "unit_price": {
+          "snippet": "11 Box 59.59 per pc",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 11",
+          "value": 59.59
+        },
+        "price_uom": {
+          "confidence": "high",
+          "locator": "row 11",
+          "source_file": "rate_card_photo.jpg",
+          "value": "EA",
+          "snippet": "per pc"
+        },
+        "currency": {
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "locator": "row 11",
+          "snippet": "11 Box 59.59 per pc"
+        },
+        "line_id": "L11",
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "PACK",
+          "snippet": "per 100 pcs",
+          "confidence": "high",
+          "locator": "row 12"
+        },
+        "currency": {
+          "snippet": "12 RSC shipper box 2,191.00 per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "confidence": "med",
+          "locator": "row 12"
+        },
+        "pack_size": {
+          "confidence": "med",
+          "locator": "row 12",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "12 RSC shipper box 2,191.00 per 100 pcs"
+        },
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 12",
+          "value": 2191,
+          "snippet": "12 RSC shipper box 2,191.00 per 100 pcs",
+          "confidence": "med"
+        },
+        "status": "quoted",
+        "line_id": "L12"
+      },
+      {
+        "unit_price": {
+          "locator": "row 13",
+          "confidence": "med",
+          "snippet": "13 Cell partition insert (per 100 pcs) 336.06 per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "value": 336.06
+        },
+        "status": "quoted",
+        "pack_size": {
+          "locator": "row 13",
+          "confidence": "med",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "13 Cell partition insert (per 100 pcs) 336.06 per 100 pcs"
+        },
+        "line_id": "L13",
+        "currency": {
+          "snippet": "13 Cell partition insert (per 100 pcs) 336.06 per 100 pcs",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 13",
+          "value": "Rs."
+        },
+        "price_uom": {
+          "snippet": "per 100 pcs",
+          "value": "PACK",
+          "locator": "row 13",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "high"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "med",
+          "snippet": "14 6-cell divider (per 100 pcs) 549.94 per 100 pcs",
+          "locator": "row 14",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs."
+        },
+        "unit_price": {
+          "snippet": "14 6-cell divider (per 100 pcs) 549.94 per 100 pcs",
+          "value": 549.94,
+          "locator": "row 14",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "line_id": "L14",
+        "price_uom": {
+          "value": "PACK",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 14",
+          "confidence": "high",
+          "snippet": "per 100 pcs"
+        },
+        "status": "quoted",
+        "pack_size": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 14",
+          "value": 100,
+          "snippet": "14 6-cell divider (per 100 pcs) 549.94 per 100 pcs"
+        }
+      },
+      {
+        "line_id": "L15",
+        "price_uom": {
+          "snippet": "per sq m",
+          "locator": "row 15",
+          "value": "SQM",
+          "confidence": "high",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "snippet": "15 Corrugated sheet (per sq m) 27.29 per sq m",
+          "value": 27.29,
+          "locator": "row 15",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "locator": "row 15",
+          "confidence": "med",
+          "snippet": "15 Corrugated sheet (per sq m) 27.29 per sq m",
+          "value": "Rs."
+        },
+        "status": "quoted"
+      },
+      {
+        "line_id": "L16",
+        "status": "quoted",
+        "unit_price": {
+          "locator": "row 16",
+          "snippet": "16 Corrugated sheet (per sq m) 44.71 per sq m",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 44.71
+        },
+        "currency": {
+          "confidence": "med",
+          "locator": "row 16",
+          "snippet": "16 Corrugated sheet (per sq m) 44.71 per sq m",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "snippet": "per sq m",
+          "source_file": "rate_card_photo.jpg",
+          "value": "SQM",
+          "locator": "row 16",
+          "confidence": "high"
+        }
+      },
+      {
+        "unit_price": {
+          "value": 35.65,
+          "confidence": "med",
+          "locator": "row 17",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "17 Corrugated sheet, pre-printed (per sq m) 35.65 per sq m"
+        },
+        "line_id": "L17",
+        "status": "quoted",
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "Rs.",
+          "locator": "row 17",
+          "snippet": "17 Corrugated sheet, pre-printed (per sq m) 35.65 per sq m"
+        },
+        "price_uom": {
+          "value": "SQM",
+          "snippet": "per sq m",
+          "locator": "row 17",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "high"
+        }
+      },
+      {
+        "unit_price": {
+          "locator": "row 18",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "18 Corrugated roll 1200 mm (per kg) 40.24 per kg",
+          "confidence": "med",
+          "value": 40.24
+        },
+        "currency": {
+          "snippet": "18 Corrugated roll 1200 mm (per kg) 40.24 per kg",
+          "confidence": "med",
+          "locator": "row 18",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs."
+        },
+        "status": "quoted",
+        "line_id": "L18",
+        "price_uom": {
+          "locator": "row 18",
+          "value": "KG",
+          "snippet": "per kg",
+          "confidence": "high",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "line_id": "L19",
+        "unit_price": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "19 Corrugated roll 1200 mm (per kg) 45.34 per kg",
+          "locator": "row 19",
+          "value": 45.34
+        },
+        "currency": {
+          "locator": "row 19",
+          "snippet": "19 Corrugated roll 1200 mm (per kg) 45.34 per kg",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "price_uom": {
+          "snippet": "per kg",
+          "value": "KG",
+          "confidence": "high",
+          "locator": "row 19",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "20 Corrugated roll 1200 mm (per kg) 47.45 per kg",
+          "value": 47.45,
+          "locator": "row 20"
+        },
+        "price_uom": {
+          "confidence": "high",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "per kg",
+          "value": "KG",
+          "locator": "row 20"
+        },
+        "status": "quoted",
+        "currency": {
+          "snippet": "20 Corrugated roll 1200 mm (per kg) 47.45 per kg",
+          "locator": "row 20",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "confidence": "med"
+        },
+        "line_id": "L20"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L11..L20"
+}

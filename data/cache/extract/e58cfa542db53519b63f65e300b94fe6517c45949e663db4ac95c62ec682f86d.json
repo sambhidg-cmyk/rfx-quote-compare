@@ -1,0 +1,151 @@
+{
+  "raw": {
+    "commercial": {
+      "validity": {
+        "value": 30,
+        "locator": "Rate card, FY 2026-27 (valid 30 days)",
+        "snippet": "Rate card, FY 2026-27 (valid 30 days)",
+        "source_file": "rate_card_photo.jpg",
+        "confidence": "high"
+      }
+    },
+    "questionnaire": [
+      {
+        "answer": {
+          "locator": "Q01: ISO 9001:2015 cert GKT-QMS-7712, valid to 31-Jul-2027. ISO 14001 not held.",
+          "snippet": "Q01: ISO 9001:2015 cert GKT-QMS-7712, valid to 31-Jul-2027. ISO 14001 not held.",
+          "value": "ISO 9001:2015 cert GKT-QMS-7712, valid to 31-Jul-2027. ISO 14001 not held.",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "answered",
+        "question_id": "Q01"
+      },
+      {
+        "question_id": "Q02",
+        "status": "answered",
+        "answer": {
+          "snippet": "Q02: FSC not held.",
+          "locator": "Q02: FSC not held.",
+          "confidence": "med",
+          "value": "FSC not held.",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "snippet": "Q03: BIS not held.",
+          "confidence": "med",
+          "locator": "Q03: BIS not held.",
+          "value": "BIS not held.",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "question_id": "Q03"
+      },
+      {
+        "answer": {
+          "snippet": "Q04: In-house BCT and ECT press, Cobb tester. Report attached.",
+          "locator": "Q04: In-house BCT and ECT press, Cobb tester. Report attached.",
+          "confidence": "med",
+          "value": "In-house BCT and ECT press, Cobb tester. Report attached.",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "answered",
+        "question_id": "Q04"
+      },
+      {
+        "answer": {
+          "value": 700,
+          "snippet": "Q05: 700 tonnes per month.",
+          "locator": "Q05: 700 tonnes per month.",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "answered",
+        "question_id": "Q05"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "value": "Two plants: Bhiwandi and Vapi.",
+          "locator": "Q06: Two plants: Bhiwandi and Vapi.",
+          "snippet": "Q06: Two plants: Bhiwandi and Vapi.",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "question_id": "Q06"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": 30,
+          "snippet": "Q07: 30 days.",
+          "locator": "Q07: 30 days."
+        },
+        "question_id": "Q07"
+      },
+      {
+        "question_id": "Q08",
+        "answer": {
+          "snippet": "Q08: 14 days.",
+          "locator": "Q08: 14 days.",
+          "value": 14,
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "Two references, names on request.",
+          "locator": "Q09: Two references, names on request.",
+          "confidence": "med",
+          "snippet": "Q09: Two references, names on request."
+        },
+        "question_id": "Q09"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "Up to 3 free samples per item, 2-day turnaround.",
+          "snippet": "Q10: Up to 3 free samples per item, 2-day turnaround.",
+          "locator": "Q10: Up to 3 free samples per item, 2-day turnaround."
+        },
+        "question_id": "Q10"
+      },
+      {
+        "answer": {
+          "locator": "Q11: Buyer arranges insurance.",
+          "snippet": "Q11: Buyer arranges insurance.",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Buyer arranges insurance.",
+          "confidence": "med"
+        },
+        "status": "answered",
+        "question_id": "Q11"
+      },
+      {
+        "question_id": "Q12",
+        "answer": {
+          "snippet": "Q12: 60% recycled content. Solar on two plant roofs.",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "Q12: 60% recycled content. Solar on two plant roofs.",
+          "value": "60% recycled content. Solar on two plant roofs."
+        },
+        "status": "answered"
+      }
+    ]
+  },
+  "attempts": 1,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "commercial and questionnaire"
+}

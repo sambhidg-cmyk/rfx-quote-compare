@@ -1,0 +1,281 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "status": "quoted",
+        "line_id": "L11",
+        "currency": {
+          "snippet": "Rate (Rs.)",
+          "locator": "item 11",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "Rs."
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "value": "EA",
+          "confidence": "med",
+          "locator": "item 11",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "confidence": "med",
+          "locator": "item 11",
+          "snippet": "59.59",
+          "source_file": "rate_card_photo.jpg",
+          "value": 59.59
+        }
+      },
+      {
+        "line_id": "L12",
+        "price_uom": {
+          "confidence": "med",
+          "snippet": "per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 12",
+          "value": "PACK"
+        },
+        "unit_price": {
+          "confidence": "med",
+          "snippet": "2,191.00",
+          "value": 2191,
+          "locator": "item 12",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "confidence": "med",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 12"
+        },
+        "pack_size": {
+          "source_file": "rate_card_photo.jpg",
+          "value": 100,
+          "snippet": "per 100 pcs",
+          "locator": "item 12",
+          "confidence": "med"
+        },
+        "status": "quoted"
+      },
+      {
+        "currency": {
+          "confidence": "med",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.)",
+          "locator": "item 13",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted",
+        "pack_size": {
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 13",
+          "snippet": "per 100 pcs",
+          "confidence": "med"
+        },
+        "line_id": "L13",
+        "unit_price": {
+          "value": 336.06,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "locator": "item 13",
+          "snippet": "336.06"
+        },
+        "price_uom": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 13",
+          "snippet": "per 100 pcs",
+          "value": "PACK"
+        }
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "confidence": "med",
+          "snippet": "per 100 pcs",
+          "locator": "item 14",
+          "source_file": "rate_card_photo.jpg",
+          "value": "PACK"
+        },
+        "line_id": "L14",
+        "currency": {
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 14",
+          "snippet": "Rate (Rs.)",
+          "confidence": "med"
+        },
+        "pack_size": {
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "locator": "item 14",
+          "snippet": "per 100 pcs"
+        },
+        "unit_price": {
+          "snippet": "549.94",
+          "value": 549.94,
+          "locator": "item 14",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L15",
+        "price_uom": {
+          "confidence": "med",
+          "snippet": "per sq m",
+          "locator": "item 15",
+          "value": "SQM",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "value": 27.29,
+          "confidence": "med",
+          "locator": "item 15",
+          "snippet": "27.29",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 15",
+          "confidence": "med",
+          "snippet": "Rate (Rs.)"
+        }
+      },
+      {
+        "price_uom": {
+          "value": "SQM",
+          "confidence": "med",
+          "snippet": "per sq m",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 16"
+        },
+        "unit_price": {
+          "locator": "item 16",
+          "snippet": "44.71",
+          "value": 44.71,
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted",
+        "line_id": "L16",
+        "currency": {
+          "locator": "item 16",
+          "value": "Rs.",
+          "snippet": "Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        }
+      },
+      {
+        "line_id": "L17",
+        "status": "quoted",
+        "currency": {
+          "value": "Rs.",
+          "confidence": "med",
+          "locator": "item 17",
+          "snippet": "Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "confidence": "med",
+          "locator": "item 17",
+          "value": "SQM",
+          "snippet": "per sq m",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "snippet": "35.65",
+          "value": 35.65,
+          "locator": "item 17",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)",
+          "value": "Rs.",
+          "locator": "item 18"
+        },
+        "line_id": "L18",
+        "status": "quoted",
+        "price_uom": {
+          "confidence": "med",
+          "value": "KG",
+          "locator": "item 18",
+          "snippet": "per kg",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "snippet": "40.24",
+          "locator": "item 18",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 40.24
+        }
+      },
+      {
+        "unit_price": {
+          "value": 45.34,
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "item 19",
+          "snippet": "45.34"
+        },
+        "price_uom": {
+          "snippet": "per kg",
+          "locator": "item 19",
+          "confidence": "med",
+          "value": "KG",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted",
+        "line_id": "L19",
+        "currency": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "locator": "item 19",
+          "snippet": "Rate (Rs.)"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L20",
+        "currency": {
+          "value": "Rs.",
+          "locator": "item 20",
+          "snippet": "Rate (Rs.)",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "confidence": "med",
+          "snippet": "per kg",
+          "source_file": "rate_card_photo.jpg",
+          "value": "KG",
+          "locator": "item 20"
+        },
+        "unit_price": {
+          "locator": "item 20",
+          "confidence": "med",
+          "snippet": "47.45",
+          "value": 47.45,
+          "source_file": "rate_card_photo.jpg"
+        }
+      }
+    ]
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "lines L11..L20"
+}

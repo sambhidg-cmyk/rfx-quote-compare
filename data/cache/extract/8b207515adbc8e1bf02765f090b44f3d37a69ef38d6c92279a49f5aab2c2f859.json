@@ -1,0 +1,274 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "pack_size": {
+          "snippet": "per 100 pcs",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "unit_price": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "50.94",
+          "value": 50.94,
+          "locator": "rate_card_photo.jpg"
+        },
+        "line_id": "L21",
+        "status": "quoted",
+        "price_uom": {
+          "value": "PACK",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg",
+          "snippet": "per 100 pcs",
+          "confidence": "med"
+        },
+        "currency": {
+          "locator": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "snippet": "50.94",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "100.43",
+          "value": "Rs.",
+          "locator": "rate_card_photo.jpg"
+        },
+        "line_id": "L22",
+        "price_uom": {
+          "snippet": "per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "PACK",
+          "locator": "rate_card_photo.jpg"
+        },
+        "pack_size": {
+          "source_file": "rate_card_photo.jpg",
+          "value": 100,
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "snippet": "per 100 pcs"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "100.43",
+          "value": 100.43,
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "per kg",
+          "value": "KG",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "line_id": "L23",
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "191.87",
+          "value": 191.87,
+          "locator": "rate_card_photo.jpg",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "currency": {
+          "confidence": "med",
+          "snippet": "191.87",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "locator": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "unit_price": {
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "215.43",
+          "value": 215.43
+        },
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "per kg",
+          "value": "KG",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "confidence": "med",
+          "snippet": "215.43",
+          "locator": "rate_card_photo.jpg"
+        },
+        "line_id": "L24"
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "snippet": "per roll",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg",
+          "value": "EA",
+          "confidence": "med"
+        },
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "USD",
+          "snippet": "USD 1.13",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "line_id": "L25",
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "USD 1.13",
+          "locator": "rate_card_photo.jpg",
+          "value": 1.13,
+          "confidence": "med"
+        }
+      },
+      {
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "USD",
+          "snippet": "USD 1.49"
+        },
+        "line_id": "L26",
+        "price_uom": {
+          "value": "EA",
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "snippet": "per roll",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "USD 1.49",
+          "value": 1.49,
+          "locator": "rate_card_photo.jpg"
+        },
+        "status": "quoted"
+      },
+      {
+        "line_id": "L27",
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "med",
+          "snippet": "703.86",
+          "value": 703.86,
+          "locator": "rate_card_photo.jpg",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "EA",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "703.86",
+          "confidence": "med",
+          "value": "Rs.",
+          "locator": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "status": "quoted",
+        "currency": {
+          "value": "Rs.",
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "1,559.40"
+        },
+        "unit_price": {
+          "snippet": "1,559.40",
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "source_file": "rate_card_photo.jpg",
+          "value": 1559.4
+        },
+        "price_uom": {
+          "locator": "rate_card_photo.jpg",
+          "snippet": "per pc",
+          "confidence": "med",
+          "value": "EA",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "line_id": "L28"
+      },
+      {
+        "line_id": "L29",
+        "price_uom": {
+          "snippet": "per pc",
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "value": "EA",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "value": 98.1,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "98.10",
+          "locator": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "snippet": "98.10",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg",
+          "snippet": "USD 0.48",
+          "source_file": "rate_card_photo.jpg",
+          "value": "USD"
+        },
+        "unit_price": {
+          "snippet": "USD 0.48",
+          "locator": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": 0.48,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted",
+        "line_id": "L30",
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "SQM",
+          "confidence": "med",
+          "snippet": "per sq m",
+          "locator": "rate_card_photo.jpg"
+        }
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L21..L30"
+}

@@ -1,0 +1,211 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "pack_size": {
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs.",
+          "value": 100,
+          "confidence": "high",
+          "locator": "para 32",
+          "source_file": "quote.docx"
+        },
+        "unit_price": {
+          "locator": "para 32",
+          "confidence": "high",
+          "value": 46.69,
+          "source_file": "quote.docx",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs."
+        },
+        "currency": {
+          "locator": "para 4",
+          "value": "INR",
+          "source_file": "quote.docx",
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "confidence": "high"
+        },
+        "notes": "Quoted per 100 pieces.",
+        "price_uom": {
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs.",
+          "value": "PACK",
+          "locator": "para 32"
+        },
+        "line_id": "L21",
+        "status": "quoted"
+      },
+      {
+        "status": "not_quoted",
+        "line_id": "L22",
+        "notes": "Vendor regret: unable to quote."
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "value": "KG",
+          "source_file": "quote.docx",
+          "locator": "para 35",
+          "confidence": "high",
+          "snippet": "L23, Machine-grade stretch film 500 mm x 23 micron (per kg): we offer ₹179.85 per kg."
+        },
+        "unit_price": {
+          "locator": "para 35",
+          "confidence": "high",
+          "snippet": "L23, Machine-grade stretch film 500 mm x 23 micron (per kg): we offer ₹179.85 per kg.",
+          "value": 179.85,
+          "source_file": "quote.docx"
+        },
+        "currency": {
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "source_file": "quote.docx",
+          "locator": "para 4",
+          "confidence": "high",
+          "value": "INR"
+        },
+        "line_id": "L23"
+      },
+      {
+        "currency": {
+          "confidence": "high",
+          "value": "INR",
+          "source_file": "quote.docx",
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "locator": "para 4"
+        },
+        "price_uom": {
+          "snippet": "L24, Hand stretch roll 300 mm x 17 micron (per kg): we offer ₹196.86 per kg.",
+          "source_file": "quote.docx",
+          "locator": "para 36",
+          "value": "KG",
+          "confidence": "high"
+        },
+        "line_id": "L24",
+        "status": "quoted",
+        "unit_price": {
+          "value": 196.86,
+          "locator": "para 36",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "snippet": "L24, Hand stretch roll 300 mm x 17 micron (per kg): we offer ₹196.86 per kg."
+        }
+      },
+      {
+        "line_id": "L25",
+        "notes": "Quoted per roll.",
+        "price_uom": {
+          "locator": "para 37",
+          "value": "OTHER",
+          "snippet": "L25, BOPP tape 48 mm x 100 m, clear: we offer ₹90.50 per roll.",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        },
+        "currency": {
+          "confidence": "high",
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "value": "INR",
+          "source_file": "quote.docx",
+          "locator": "para 4"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "value": 90.5,
+          "locator": "para 37",
+          "snippet": "L25, BOPP tape 48 mm x 100 m, clear: we offer ₹90.50 per roll.",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        }
+      },
+      {
+        "notes": "Quoted per roll.",
+        "status": "quoted",
+        "line_id": "L26",
+        "price_uom": {
+          "locator": "para 38",
+          "value": "OTHER",
+          "source_file": "quote.docx",
+          "snippet": "L26, BOPP tape 48 mm x 100 m, printed logo: we offer ₹113.54 per roll.",
+          "confidence": "high"
+        },
+        "currency": {
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "confidence": "high",
+          "locator": "para 4",
+          "value": "INR",
+          "source_file": "quote.docx"
+        },
+        "unit_price": {
+          "locator": "para 38",
+          "confidence": "high",
+          "value": 113.54,
+          "source_file": "quote.docx",
+          "snippet": "L26, BOPP tape 48 mm x 100 m, printed logo: we offer ₹113.54 per roll."
+        }
+      },
+      {
+        "currency": {
+          "value": "INR",
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "locator": "para 4"
+        },
+        "price_uom": {
+          "snippet": "L27, Pallet 1200x1000 mm, heat-treated wood, 4-way: we offer ₹662.52 per pc.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 40",
+          "value": "EA"
+        },
+        "line_id": "L27",
+        "unit_price": {
+          "locator": "para 40",
+          "confidence": "high",
+          "value": 662.52,
+          "snippet": "L27, Pallet 1200x1000 mm, heat-treated wood, 4-way: we offer ₹662.52 per pc.",
+          "source_file": "quote.docx"
+        },
+        "status": "quoted",
+        "notes": "Quoted per pc."
+      },
+      {
+        "notes": "Vendor regret: unable to quote.",
+        "status": "not_quoted",
+        "line_id": "L28"
+      },
+      {
+        "line_id": "L29",
+        "notes": "Vendor regret: unable to quote.",
+        "status": "not_quoted"
+      },
+      {
+        "price_uom": {
+          "locator": "para 26",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "L30, Corrugated sheet, high-BF, imported (per sq m): we offer ₹38.37 per sq m.",
+          "value": "SQM"
+        },
+        "currency": {
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+          "locator": "para 4",
+          "value": "INR"
+        },
+        "unit_price": {
+          "source_file": "quote.docx",
+          "snippet": "L30, Corrugated sheet, high-BF, imported (per sq m): we offer ₹38.37 per sq m.",
+          "value": 38.37,
+          "confidence": "high",
+          "locator": "para 26"
+        },
+        "status": "quoted",
+        "line_id": "L30"
+      }
+    ]
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "lines L21..L30"
+}

@@ -1,0 +1,187 @@
+{
+  "raw": {
+    "questionnaire": [
+      {
+        "status": "answered",
+        "question_id": "Q01",
+        "answer": {
+          "snippet": "ISO 9001:2015 cert SBS-44-8810, valid to 31-May-2027. No ISO 14001.",
+          "value": "ISO 9001:2015 cert SBS-44-8810, valid to 31-May-2027. No ISO 14001.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "locator": "para 44"
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q02",
+        "answer": {
+          "snippet": "No FSC CoC. FSC-mix board available at a 4% premium.",
+          "locator": "para 45",
+          "source_file": "quote.docx",
+          "value": "No FSC CoC. FSC-mix board available at a 4% premium.",
+          "confidence": "high"
+        }
+      },
+      {
+        "question_id": "Q03",
+        "status": "answered",
+        "answer": {
+          "snippet": "Yes. BIS registration SBS/BIS/0021.",
+          "locator": "para 46",
+          "value": "Yes. BIS registration SBS/BIS/0021.",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        }
+      },
+      {
+        "answer": {
+          "locator": "para 47",
+          "value": "ECT and BCT testing is outsourced to an external NABL-accredited lab (report attached). No in-house test equipment.",
+          "confidence": "high",
+          "snippet": "ECT and BCT testing is outsourced to an external NABL-accredited lab (report attached). No in-house test equipment.",
+          "source_file": "quote.docx"
+        },
+        "question_id": "Q04",
+        "status": "answered"
+      },
+      {
+        "answer": {
+          "value": "620 tonnes per month.",
+          "source_file": "quote.docx",
+          "snippet": "620 tonnes per month.",
+          "locator": "para 48",
+          "confidence": "high"
+        },
+        "question_id": "Q05",
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "locator": "para 49",
+          "confidence": "high",
+          "value": "One plant (Pune).",
+          "source_file": "quote.docx",
+          "snippet": "One plant (Pune)."
+        },
+        "question_id": "Q06"
+      },
+      {
+        "question_id": "Q07",
+        "answer": {
+          "locator": "para 50",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "60 days from invoice.",
+          "snippet": "60 days from invoice."
+        },
+        "status": "answered"
+      },
+      {
+        "answer": {
+          "locator": "para 51",
+          "source_file": "quote.docx",
+          "value": "15 days from PO.",
+          "confidence": "high",
+          "snippet": "15 days from PO."
+        },
+        "status": "answered",
+        "question_id": "Q08"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "locator": "para 52",
+          "confidence": "high",
+          "value": "Mahavir Organics; Bluecart Retail; Tiffin Express.",
+          "snippet": "Mahavir Organics; Bluecart Retail; Tiffin Express.",
+          "source_file": "quote.docx"
+        },
+        "question_id": "Q09"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q10",
+        "answer": {
+          "snippet": "No free samples. Samples at cost, Rs 350 per box size.",
+          "locator": "para 53",
+          "source_file": "quote.docx",
+          "value": "No free samples. Samples at cost, Rs 350 per box size.",
+          "confidence": "high"
+        }
+      },
+      {
+        "answer": {
+          "locator": "para 54",
+          "source_file": "quote.docx",
+          "value": "Freight and transit insurance included in delivered price.",
+          "snippet": "Freight and transit insurance included in delivered price.",
+          "confidence": "high"
+        },
+        "status": "answered",
+        "question_id": "Q11"
+      },
+      {
+        "answer": {
+          "locator": "para 55",
+          "value": "35% recycled content. No renewable power data.",
+          "snippet": "35% recycled content. No renewable power data.",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        },
+        "status": "answered",
+        "question_id": "Q12"
+      }
+    ],
+    "commercial": {
+      "discount": {
+        "notes": "referenced as a premium rather than a discount",
+        "locator": "para 45",
+        "value": "4% premium for FSC-mix board",
+        "confidence": "high",
+        "snippet": "FSC-mix board available at a 4% premium.",
+        "source_file": "quote.docx"
+      },
+      "validity": {
+        "locator": "para 4",
+        "value": "45 days",
+        "source_file": "quote.docx",
+        "snippet": "45 days from today.",
+        "confidence": "high"
+      },
+      "freight": {
+        "snippet": "delivered to your Mumbai warehouse, so freight is included.",
+        "confidence": "high",
+        "source_file": "quote.docx",
+        "locator": "para 4",
+        "value": "Included to Mumbai warehouse"
+      },
+      "payment_terms": {
+        "locator": "para 50",
+        "value": "60 days from invoice",
+        "snippet": "60 days from invoice.",
+        "source_file": "quote.docx",
+        "confidence": "high"
+      },
+      "lead_time_days": {
+        "value": 15,
+        "snippet": "15 days from PO.",
+        "confidence": "high",
+        "locator": "para 51",
+        "source_file": "quote.docx"
+      },
+      "gst": {
+        "source_file": "quote.docx",
+        "snippet": "exclusive of GST",
+        "confidence": "high",
+        "locator": "para 4",
+        "value": "exclusive"
+      }
+    }
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "commercial and questionnaire"
+}

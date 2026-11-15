@@ -1,0 +1,190 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "unit_price": {
+          "confidence": "high",
+          "locator": "para 7",
+          "source_file": "quote.docx",
+          "snippet": "L01, RSC shipper box: we offer ₹13.74 per pc.",
+          "value": 13.74
+        },
+        "status": "quoted",
+        "line_id": "L01",
+        "price_uom": {
+          "source_file": "quote.docx",
+          "snippet": "L01, RSC shipper box: we offer ₹13.74 per pc.",
+          "confidence": "high",
+          "locator": "para 7",
+          "value": "EA"
+        }
+      },
+      {
+        "unit_price": {
+          "source_file": "quote.docx",
+          "locator": "para 8",
+          "confidence": "high",
+          "snippet": "L02, RSC shipper box: we offer around Rs 18 per pc.",
+          "value": 18
+        },
+        "status": "quoted",
+        "price_uom": {
+          "value": "EA",
+          "locator": "para 8",
+          "source_file": "quote.docx",
+          "snippet": "L02, RSC shipper box: we offer around Rs 18 per pc.",
+          "confidence": "high"
+        },
+        "line_id": "L02"
+      },
+      {
+        "line_id": "L03",
+        "status": "quoted",
+        "price_uom": {
+          "locator": "para 9",
+          "snippet": "L03, RSC shipper box: we offer ₹24.99 per pc.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "EA"
+        },
+        "unit_price": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": 24.99,
+          "snippet": "L03, RSC shipper box: we offer ₹24.99 per pc.",
+          "locator": "para 9"
+        }
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "confidence": "high",
+          "value": "EA",
+          "snippet": "L04, Mailer box: we offer ₹27.24 per pc.",
+          "source_file": "quote.docx",
+          "locator": "para 10"
+        },
+        "unit_price": {
+          "locator": "para 10",
+          "confidence": "high",
+          "snippet": "L04, Mailer box: we offer ₹27.24 per pc.",
+          "source_file": "quote.docx",
+          "value": 27.24
+        },
+        "line_id": "L04"
+      },
+      {
+        "unit_price": {
+          "value": 9.57,
+          "locator": "para 11",
+          "source_file": "quote.docx",
+          "snippet": "L05, Die-cut mailer: we offer ₹9.57 per pc.",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "value": "EA",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "locator": "para 11",
+          "snippet": "L05, Die-cut mailer: we offer ₹9.57 per pc."
+        },
+        "line_id": "L05",
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "confidence": "high",
+          "snippet": "L06, Heavy-duty box: we offer ₹50.58 per pc.",
+          "source_file": "quote.docx",
+          "value": "EA",
+          "locator": "para 12"
+        },
+        "line_id": "L06",
+        "unit_price": {
+          "value": 50.58,
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 12",
+          "snippet": "L06, Heavy-duty box: we offer ₹50.58 per pc."
+        }
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "locator": "para 13",
+          "source_file": "quote.docx",
+          "snippet": "L07, Heavy-duty box: we offer ₹60.39 per pc.",
+          "value": "EA",
+          "confidence": "high"
+        },
+        "line_id": "L07",
+        "unit_price": {
+          "snippet": "L07, Heavy-duty box: we offer ₹60.39 per pc.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 13",
+          "value": 60.39
+        }
+      },
+      {
+        "line_id": "L08",
+        "unit_price": {
+          "confidence": "high",
+          "snippet": "L08, Box: we offer ₹40.53 per pc.",
+          "source_file": "quote.docx",
+          "locator": "para 14",
+          "value": 40.53
+        },
+        "price_uom": {
+          "confidence": "high",
+          "value": "EA",
+          "source_file": "quote.docx",
+          "snippet": "L08, Box: we offer ₹40.53 per pc.",
+          "locator": "para 14"
+        },
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "snippet": "L09, Heavy-duty box: we offer ₹116.48 per pc.",
+          "value": 116.48,
+          "locator": "para 15"
+        },
+        "price_uom": {
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "L09, Heavy-duty box: we offer ₹116.48 per pc.",
+          "locator": "para 15",
+          "source_file": "quote.docx"
+        },
+        "line_id": "L09",
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "value": 129.51,
+          "locator": "para 16",
+          "snippet": "L10, Heavy-duty box: we offer ₹129.51 per pc.",
+          "source_file": "quote.docx",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "snippet": "L10, Heavy-duty box: we offer ₹129.51 per pc.",
+          "locator": "para 16",
+          "value": "EA",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        },
+        "line_id": "L10"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L01..L10"
+}

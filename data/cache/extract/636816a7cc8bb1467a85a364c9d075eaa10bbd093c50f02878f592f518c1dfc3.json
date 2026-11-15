@@ -1,0 +1,295 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "pack_size": {
+          "confidence": "med",
+          "value": 100,
+          "snippet": "per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "No. 01"
+        },
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "PACK",
+          "snippet": "per 100 pcs",
+          "locator": "No. 01"
+        },
+        "line_id": "L01",
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 1531,
+          "snippet": "1,531.00",
+          "locator": "No. 01"
+        },
+        "currency": {
+          "locator": "table header Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs.",
+          "confidence": "med",
+          "snippet": "Rate (Rs.)"
+        }
+      },
+      {
+        "currency": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)",
+          "value": "Rs.",
+          "locator": "table header Rate (Rs.)"
+        },
+        "unit_price": {
+          "locator": "No. 02",
+          "snippet": "20.30",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 20.3
+        },
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "No. 02"
+        },
+        "line_id": "L02"
+      },
+      {
+        "currency": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "Rs.",
+          "locator": "table header Rate (Rs.)",
+          "snippet": "Rate (Rs.)"
+        },
+        "pack_size": {
+          "locator": "No. 03",
+          "value": 100,
+          "snippet": "per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "2,521.00",
+          "confidence": "med",
+          "locator": "No. 03",
+          "value": 2521,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "line_id": "L03",
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "PACK",
+          "confidence": "med",
+          "locator": "No. 03",
+          "snippet": "per 100 pcs"
+        }
+      },
+      {
+        "unit_price": {
+          "snippet": "28.36",
+          "locator": "No. 04",
+          "value": 28.36,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "line_id": "L04",
+        "currency": {
+          "confidence": "med",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)",
+          "locator": "table header Rate (Rs.)"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "No. 04"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L05",
+        "unit_price": {
+          "snippet": "1,022.00",
+          "locator": "No. 05",
+          "value": 1022,
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "locator": "table header Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)",
+          "confidence": "med",
+          "value": "Rs."
+        },
+        "pack_size": {
+          "snippet": "per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "No. 05",
+          "value": 100,
+          "confidence": "med"
+        },
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "PACK",
+          "locator": "No. 05",
+          "snippet": "per 100 pcs"
+        }
+      },
+      {
+        "currency": {
+          "locator": "table header Rate (Rs.)",
+          "snippet": "Rate (Rs.)",
+          "value": "Rs.",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "confidence": "med",
+          "snippet": "per pc",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "No. 06",
+          "value": "EA"
+        },
+        "line_id": "L06",
+        "unit_price": {
+          "locator": "No. 06",
+          "snippet": "54.88",
+          "confidence": "med",
+          "value": 54.88,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted"
+      },
+      {
+        "currency": {
+          "snippet": "Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "table header Rate (Rs.)",
+          "confidence": "med",
+          "value": "Rs."
+        },
+        "status": "quoted",
+        "unit_price": {
+          "value": 6379,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "6,379.00",
+          "locator": "No. 07"
+        },
+        "pack_size": {
+          "snippet": "per 100 pcs",
+          "locator": "No. 07",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        },
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "PACK",
+          "locator": "No. 07",
+          "snippet": "per 100 pcs",
+          "confidence": "med"
+        },
+        "line_id": "L07"
+      },
+      {
+        "price_uom": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "per pc",
+          "value": "EA",
+          "locator": "No. 08"
+        },
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "locator": "No. 08",
+          "snippet": "42.29",
+          "value": 42.29
+        },
+        "line_id": "L08",
+        "currency": {
+          "snippet": "Rate (Rs.)",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "table header Rate (Rs.)",
+          "confidence": "med"
+        },
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "locator": "No. 09",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "per 100 pcs",
+          "confidence": "med",
+          "value": "PACK"
+        },
+        "currency": {
+          "value": "Rs.",
+          "confidence": "med",
+          "locator": "table header Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)"
+        },
+        "line_id": "L09",
+        "pack_size": {
+          "confidence": "med",
+          "snippet": "per 100 pcs",
+          "locator": "No. 09",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "unit_price": {
+          "locator": "No. 09",
+          "value": 12354,
+          "snippet": "12,354.00",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "confidence": "med",
+          "locator": "No. 10",
+          "snippet": "143.70",
+          "value": 143.7,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "price_uom": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "No. 10"
+        },
+        "line_id": "L10",
+        "status": "quoted",
+        "currency": {
+          "locator": "table header Rate (Rs.)",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Rate (Rs.)",
+          "confidence": "med",
+          "value": "Rs."
+        }
+      }
+    ]
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "lines L01..L10"
+}

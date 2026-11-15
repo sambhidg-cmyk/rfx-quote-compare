@@ -1,0 +1,188 @@
+{
+  "raw": {
+    "questionnaire": [
+      {
+        "status": "answered",
+        "answer": {
+          "snippet": "ISO 9001:2015 cert BCI-QMS-0093, valid to 31-Aug-2026. Renewal audit",
+          "locator": "p.3 line 11",
+          "source_file": "quote_letterhead.pdf",
+          "value": "ISO 9001:2015 cert BCI-QMS-0093, valid to 31-Aug-2026. Renewal audit scheduled. ISO 14001:2015 valid to 15-Jan-2027.",
+          "confidence": "high"
+        },
+        "question_id": "Q01"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "value": "Yes. FSC CoC valid to 28-Feb-2027.",
+          "locator": "p.3 line 15",
+          "confidence": "high",
+          "snippet": "Yes. FSC CoC valid to 28-Feb-2027.",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "question_id": "Q02"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "value": "Not held. Application filed Oct-2026.",
+          "locator": "p.3 line 19",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "snippet": "Not held. Application filed Oct-2026."
+        },
+        "question_id": "Q03"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.3 line 23",
+          "snippet": "In-house ECT and BCT testing. Cobb testing outsourced.",
+          "confidence": "high",
+          "value": "In-house ECT and BCT testing. Cobb testing outsourced."
+        },
+        "question_id": "Q04"
+      },
+      {
+        "answer": {
+          "locator": "p.3 line 27",
+          "value": "900 tonnes per month.",
+          "confidence": "high",
+          "snippet": "900 tonnes per month.",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "status": "answered",
+        "question_id": "Q05"
+      },
+      {
+        "answer": {
+          "value": "One plant (Bhiwandi).",
+          "snippet": "One plant (Bhiwandi).",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.3 line 30"
+        },
+        "status": "answered",
+        "question_id": "Q06"
+      },
+      {
+        "answer": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "30 days from invoice.",
+          "value": "30 days from invoice.",
+          "confidence": "high",
+          "locator": "p.3 line 33"
+        },
+        "status": "answered",
+        "question_id": "Q07"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q08",
+        "answer": {
+          "confidence": "high",
+          "value": "10 days from PO.",
+          "snippet": "10 days from PO.",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.3 line 36"
+        }
+      },
+      {
+        "question_id": "Q09",
+        "status": "answered",
+        "answer": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "References on request: Fabrica Snacks, Ojas Foods.",
+          "value": "References on request: Fabrica Snacks, Ojas Foods.",
+          "confidence": "high",
+          "locator": "p.3 line 39"
+        }
+      },
+      {
+        "answer": {
+          "confidence": "high",
+          "locator": "p.3 line 43",
+          "snippet": "5 free samples; additional samples charged at cost.",
+          "source_file": "quote_letterhead.pdf",
+          "value": "5 free samples; additional samples charged at cost."
+        },
+        "question_id": "Q10",
+        "status": "answered"
+      },
+      {
+        "question_id": "Q11",
+        "answer": {
+          "value": "Buyer arranges transit insurance.",
+          "snippet": "Buyer arranges transit insurance.",
+          "confidence": "high",
+          "locator": "p.3 line 46",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "status": "answered"
+      },
+      {
+        "question_id": "Q12",
+        "status": "answered",
+        "answer": {
+          "confidence": "high",
+          "snippet": "55% recycled content. No renewable power data.",
+          "source_file": "quote_letterhead.pdf",
+          "value": "55% recycled content. No renewable power data.",
+          "locator": "p.3 line 50"
+        }
+      }
+    ],
+    "lines": [],
+    "commercial": {
+      "discount": {
+        "value": "3% on total annual orders above Rs. 25,00,000",
+        "locator": "p.2 line 89",
+        "source_file": "quote_letterhead.pdf",
+        "confidence": "high",
+        "snippet": "* Volume discount: 3% on total annual orders above Rs. 25,00,000 across all items, credited on invoice.",
+        "notes": "Applied on total annual orders."
+      },
+      "validity": {
+        "confidence": "high",
+        "snippet": "Prices are exclusive of GST (applicable rate extra). Freight extra, at actuals from our Bhiwandi dispatch. Validity: 30 days.",
+        "value": 30,
+        "locator": "p.2 line 90",
+        "source_file": "quote_letterhead.pdf"
+      },
+      "freight": {
+        "confidence": "high",
+        "locator": "p.2 line 90",
+        "source_file": "quote_letterhead.pdf",
+        "snippet": "Prices are exclusive of GST (applicable rate extra). Freight extra, at actuals from our Bhiwandi dispatch. Validity: 30 days.",
+        "value": "extra, at actuals from our Bhiwandi dispatch"
+      },
+      "lead_time_days": {
+        "source_file": "quote_letterhead.pdf",
+        "snippet": "10 days from PO.",
+        "confidence": "high",
+        "value": 10,
+        "locator": "p.3 line 36"
+      },
+      "gst": {
+        "snippet": "Prices are exclusive of GST (applicable rate extra). Freight extra, at actuals from our Bhiwandi dispatch. Validity: 30 days.",
+        "confidence": "high",
+        "value": "exclusive of GST (applicable rate extra)",
+        "locator": "p.2 line 90",
+        "source_file": "quote_letterhead.pdf"
+      },
+      "payment_terms": {
+        "locator": "p.3 line 33",
+        "source_file": "quote_letterhead.pdf",
+        "confidence": "high",
+        "value": 30,
+        "snippet": "30 days from invoice."
+      }
+    }
+  },
+  "attempts": 2,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "commercial and questionnaire"
+}

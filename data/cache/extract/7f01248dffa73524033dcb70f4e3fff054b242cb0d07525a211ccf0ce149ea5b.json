@@ -1,0 +1,206 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "unit_price": {
+          "snippet": "14.02",
+          "locator": "Rates!D27",
+          "source_file": "quote.xlsx",
+          "value": 14.02,
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "quote.xlsx",
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "14.02",
+          "locator": "Rates!D27"
+        },
+        "line_id": "L01"
+      },
+      {
+        "unit_price": {
+          "confidence": "high",
+          "snippet": "19.79/-",
+          "locator": "Rates!D22",
+          "value": 19.79,
+          "source_file": "quote.xlsx"
+        },
+        "status": "quoted",
+        "line_id": "L02",
+        "price_uom": {
+          "value": "EA",
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D22",
+          "snippet": "19.79/-",
+          "confidence": "high"
+        }
+      },
+      {
+        "price_uom": {
+          "value": "EA",
+          "source_file": "quote.xlsx",
+          "snippet": "25.05",
+          "locator": "Rates!D34",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "source_file": "quote.xlsx",
+          "value": 25.05,
+          "confidence": "high",
+          "snippet": "25.05",
+          "locator": "Rates!D34"
+        },
+        "line_id": "L03"
+      },
+      {
+        "price_uom": {
+          "locator": "Rates!D17",
+          "snippet": "27.49",
+          "value": "EA",
+          "confidence": "high",
+          "source_file": "quote.xlsx"
+        },
+        "line_id": "L04",
+        "unit_price": {
+          "locator": "Rates!D17",
+          "snippet": "27.49",
+          "confidence": "high",
+          "value": 27.49,
+          "source_file": "quote.xlsx"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "line_id": "L05",
+        "unit_price": {
+          "locator": "Rates!D30",
+          "snippet": "9.64",
+          "value": 9.64,
+          "source_file": "quote.xlsx",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "locator": "Rates!D30",
+          "snippet": "9.64",
+          "source_file": "quote.xlsx",
+          "value": "EA",
+          "confidence": "high"
+        }
+      },
+      {
+        "price_uom": {
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D12",
+          "snippet": "51.95/-",
+          "value": "EA",
+          "confidence": "high"
+        },
+        "line_id": "L06",
+        "status": "quoted",
+        "unit_price": {
+          "value": 51.95,
+          "confidence": "high",
+          "snippet": "51.95/-",
+          "locator": "Rates!D12",
+          "source_file": "quote.xlsx"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L07",
+        "unit_price": {
+          "snippet": "62.89/-",
+          "locator": "Rates!D15",
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "value": 62.89
+        },
+        "price_uom": {
+          "locator": "Rates!D15",
+          "snippet": "62.89/-",
+          "value": "EA",
+          "source_file": "quote.xlsx",
+          "confidence": "high"
+        }
+      },
+      {
+        "line_id": "L08",
+        "price_uom": {
+          "snippet": "40.63",
+          "locator": "Rates!D18",
+          "source_file": "quote.xlsx",
+          "value": "EA",
+          "confidence": "high"
+        },
+        "unit_price": {
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "snippet": "40.63",
+          "locator": "Rates!D18",
+          "value": 40.63
+        },
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "snippet": "117.42",
+          "locator": "Rates!D35",
+          "value": "EA"
+        },
+        "status": "quoted",
+        "line_id": "L09",
+        "unit_price": {
+          "snippet": "117.42",
+          "locator": "Rates!D35",
+          "value": 117.42,
+          "source_file": "quote.xlsx",
+          "confidence": "high"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L10",
+        "price_uom": {
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D20",
+          "snippet": "133.55",
+          "confidence": "high",
+          "value": "EA"
+        },
+        "unit_price": {
+          "snippet": "133.55",
+          "locator": "Rates!D20",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "value": 133.55
+        }
+      }
+    ],
+    "commercial": {
+      "lead_time_days": {
+        "locator": "Compliance!C11",
+        "snippet": "12 days from PO.",
+        "confidence": "high",
+        "value": 12,
+        "source_file": "quote.xlsx"
+      },
+      "payment_terms": {
+        "snippet": "45 days from invoice.",
+        "locator": "Compliance!C10",
+        "value": 45,
+        "confidence": "high",
+        "source_file": "quote.xlsx"
+      }
+    }
+  },
+  "attempts": 1,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v3",
+  "batch": "lines L01..L10"
+}

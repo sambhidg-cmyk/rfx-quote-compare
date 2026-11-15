@@ -1,0 +1,177 @@
+{
+  "raw": {
+    "commercial": {
+      "lead_time_days": {
+        "value": 15,
+        "confidence": "high",
+        "snippet": "Q08 Lead time for a first purchase order (days from PO): 15 days from PO.",
+        "locator": "para 51",
+        "source_file": "quote.docx"
+      },
+      "payment_terms": {
+        "value": 60,
+        "snippet": "Q07 Standard payment terms (days from invoice): 60 days from invoice.",
+        "locator": "para 50",
+        "source_file": "quote.docx",
+        "confidence": "high"
+      },
+      "freight": {
+        "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+        "source_file": "quote.docx",
+        "confidence": "high",
+        "locator": "para 4"
+      },
+      "gst": {
+        "source_file": "quote.docx",
+        "snippet": "All rates are in Indian Rupees, exclusive of GST, and delivered to your Mumbai warehouse, so freight is included.",
+        "confidence": "high",
+        "locator": "para 4"
+      },
+      "validity": {
+        "value": 45,
+        "source_file": "quote.docx",
+        "snippet": "Our validity is 45 days from today.",
+        "locator": "para 4",
+        "confidence": "high"
+      }
+    },
+    "questionnaire": [
+      {
+        "question_id": "Q01",
+        "status": "answered",
+        "answer": {
+          "snippet": "Q01 Quality and environmental certifications: ISO 9001 and ISO 14001 (certificate number and validity): ISO 9001:2015 cert SBS-44-8810, valid to 31-May-2027. No ISO 14001.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 44",
+          "value": "ISO 9001:2015 cert SBS-44-8810, valid to 31-May-2027. No ISO 14001."
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q02",
+        "answer": {
+          "snippet": "Q02 FSC chain-of-custody certification: No FSC CoC. FSC-mix board available at a 4% premium.",
+          "value": "No FSC CoC. FSC-mix board available at a 4% premium.",
+          "locator": "para 45",
+          "source_file": "quote.docx",
+          "confidence": "high"
+        }
+      },
+      {
+        "answer": {
+          "locator": "para 46",
+          "source_file": "quote.docx",
+          "value": "Yes. BIS registration SBS/BIS/0021.",
+          "confidence": "high",
+          "snippet": "Q03 BIS registration relevant to corrugated packaging (registration number): Yes. BIS registration SBS/BIS/0021."
+        },
+        "question_id": "Q03",
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q04",
+        "answer": {
+          "locator": "para 47",
+          "source_file": "quote.docx",
+          "snippet": "Q04 In-house testing for ECT, BCT and Cobb (list equipment and standards): ECT and BCT testing is outsourced to an external NABL-accredited lab (report attached). No in-house test equipment.",
+          "value": "ECT and BCT testing is outsourced to an external NABL-accredited lab (report attached). No in-house test equipment.",
+          "confidence": "high"
+        }
+      },
+      {
+        "question_id": "Q05",
+        "status": "answered",
+        "answer": {
+          "confidence": "high",
+          "locator": "para 48",
+          "source_file": "quote.docx",
+          "snippet": "Q05 Monthly production capacity (tonnes of corrugated board): 620 tonnes per month.",
+          "value": 620
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q06",
+        "answer": {
+          "snippet": "Q06 Number of plants and their locations: One plant (Pune).",
+          "source_file": "quote.docx",
+          "locator": "para 49",
+          "confidence": "high",
+          "value": "One plant (Pune)."
+        }
+      },
+      {
+        "answer": {
+          "value": 60,
+          "source_file": "quote.docx",
+          "snippet": "Q07 Standard payment terms (days from invoice): 60 days from invoice.",
+          "confidence": "high",
+          "locator": "para 50"
+        },
+        "question_id": "Q07",
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q08",
+        "answer": {
+          "snippet": "Q08 Lead time for a first purchase order (days from PO): 15 days from PO.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 51",
+          "value": 15
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q09",
+        "answer": {
+          "snippet": "Q09 Three reference customers in FMCG or e-commerce: Mahavir Organics; Bluecart Retail; Tiffin Express.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "Mahavir Organics; Bluecart Retail; Tiffin Express.",
+          "locator": "para 52"
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q10",
+        "answer": {
+          "snippet": "Q10 Sample policy (number of free samples, lead time, cost recovery): No free samples. Samples at cost, Rs 350 per box size.",
+          "source_file": "quote.docx",
+          "value": "No free samples. Samples at cost, Rs 350 per box size.",
+          "confidence": "high",
+          "locator": "para 53"
+        }
+      },
+      {
+        "answer": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "Freight and transit insurance included in delivered price.",
+          "locator": "para 54",
+          "snippet": "Q11 Transit insurance (who arranges it, cover limit): Freight and transit insurance included in delivered price."
+        },
+        "status": "answered",
+        "question_id": "Q11"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q12",
+        "answer": {
+          "snippet": "Q12 ESG: recycled-fibre content (%) and renewable share of plant power: 35% recycled content. No renewable power data.",
+          "source_file": "quote.docx",
+          "value": "35% recycled content. No renewable power data.",
+          "locator": "para 55",
+          "confidence": "high"
+        }
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "commercial and questionnaire"
+}

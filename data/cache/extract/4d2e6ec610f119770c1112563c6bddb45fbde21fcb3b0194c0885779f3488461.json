@@ -1,0 +1,274 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "status": "quoted",
+        "price_uom": {
+          "locator": "Rates!E5",
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "value": "PACK",
+          "snippet": "Rate (₹/100 Nos)"
+        },
+        "pack_size": {
+          "value": 100,
+          "confidence": "high",
+          "locator": "Rates!E5",
+          "source_file": "quote.xlsx",
+          "snippet": "Rate (₹/100 Nos)"
+        },
+        "unit_price": {
+          "confidence": "high",
+          "locator": "Rates!E24",
+          "snippet": "50.46",
+          "value": 50.46,
+          "source_file": "quote.xlsx"
+        },
+        "line_id": "L21",
+        "currency": {
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D4",
+          "snippet": "Rates (INR, excl. GST)",
+          "confidence": "high",
+          "value": "INR"
+        }
+      },
+      {
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "high",
+          "snippet": "93.48",
+          "locator": "Rates!E28",
+          "value": 93.48,
+          "source_file": "quote.xlsx"
+        },
+        "price_uom": {
+          "locator": "Rates!E5",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "value": "PACK",
+          "snippet": "Rate (₹/100 Nos)"
+        },
+        "pack_size": {
+          "value": 100,
+          "locator": "Rates!E5",
+          "snippet": "Rate (₹/100 Nos)",
+          "source_file": "quote.xlsx",
+          "confidence": "high"
+        },
+        "line_id": "L22",
+        "currency": {
+          "confidence": "high",
+          "snippet": "Rates (INR, excl. GST)",
+          "source_file": "quote.xlsx",
+          "value": "INR",
+          "locator": "Rates!D4"
+        }
+      },
+      {
+        "unit_price": {
+          "value": 193.09,
+          "locator": "Rates!F6",
+          "snippet": "193.09",
+          "source_file": "quote.xlsx",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "currency": {
+          "snippet": "Rates (INR, excl. GST)",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "value": "INR",
+          "locator": "Rates!D4"
+        },
+        "line_id": "L23",
+        "price_uom": {
+          "locator": "Rates!F5",
+          "source_file": "quote.xlsx",
+          "value": "KG",
+          "confidence": "high",
+          "snippet": "Rate (₹/Kg)"
+        }
+      },
+      {
+        "currency": {
+          "source_file": "quote.xlsx",
+          "value": "INR",
+          "snippet": "Rates (INR, excl. GST)",
+          "locator": "Rates!D4",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "locator": "Rates!F5",
+          "value": "KG",
+          "source_file": "quote.xlsx",
+          "snippet": "Rate (₹/Kg)",
+          "confidence": "high"
+        },
+        "line_id": "L24",
+        "unit_price": {
+          "locator": "Rates!F19",
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "value": 202.79,
+          "snippet": "202.79"
+        },
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "snippet": "Rate (₹/Nos)",
+          "locator": "Rates!D5",
+          "value": "EA"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "value": 90.11,
+          "snippet": "90.11",
+          "confidence": "high",
+          "locator": "Rates!D32",
+          "source_file": "quote.xlsx"
+        },
+        "line_id": "L25",
+        "currency": {
+          "source_file": "quote.xlsx",
+          "snippet": "Rates (INR, excl. GST)",
+          "confidence": "high",
+          "locator": "Rates!D4",
+          "value": "INR"
+        }
+      },
+      {
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "high",
+          "value": 120.45,
+          "locator": "Rates!D21",
+          "source_file": "quote.xlsx",
+          "snippet": "120.45"
+        },
+        "line_id": "L26",
+        "price_uom": {
+          "value": "EA",
+          "confidence": "high",
+          "locator": "Rates!D5",
+          "source_file": "quote.xlsx",
+          "snippet": "Rate (₹/Nos)"
+        },
+        "currency": {
+          "snippet": "Rates (INR, excl. GST)",
+          "confidence": "high",
+          "value": "INR",
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D4"
+        }
+      },
+      {
+        "line_id": "L27",
+        "status": "quoted",
+        "currency": {
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D4",
+          "value": "INR",
+          "snippet": "Rates (INR, excl. GST)",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "snippet": "Rate (₹/Nos)",
+          "value": "EA",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "locator": "Rates!D5"
+        },
+        "unit_price": {
+          "value": 680.79,
+          "confidence": "high",
+          "locator": "Rates!D8",
+          "source_file": "quote.xlsx",
+          "snippet": "680.79/-"
+        }
+      },
+      {
+        "line_id": "L28",
+        "currency": {
+          "confidence": "high",
+          "value": "INR",
+          "snippet": "Rates (INR, excl. GST)",
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D4"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "locator": "Rates!D5",
+          "confidence": "high",
+          "snippet": "Rate (₹/Nos)",
+          "source_file": "quote.xlsx",
+          "value": "EA"
+        },
+        "unit_price": {
+          "snippet": "1494.83",
+          "source_file": "quote.xlsx",
+          "locator": "Rates!D29",
+          "confidence": "high",
+          "value": 1494.83
+        }
+      },
+      {
+        "unit_price": {
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "snippet": "94.95",
+          "locator": "Rates!D33",
+          "value": 94.95
+        },
+        "price_uom": {
+          "snippet": "Rate (₹/Nos)",
+          "source_file": "quote.xlsx",
+          "value": "EA",
+          "locator": "Rates!D5",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "currency": {
+          "locator": "Rates!D4",
+          "confidence": "high",
+          "value": "INR",
+          "snippet": "Rates (INR, excl. GST)",
+          "source_file": "quote.xlsx"
+        },
+        "line_id": "L29"
+      },
+      {
+        "line_id": "L30",
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "40.06",
+          "source_file": "quote.xlsx",
+          "value": 40.06,
+          "confidence": "high",
+          "locator": "Rates!G31"
+        },
+        "currency": {
+          "locator": "Rates!D4",
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "value": "INR",
+          "snippet": "Rates (INR, excl. GST)"
+        },
+        "price_uom": {
+          "locator": "Rates!G5",
+          "confidence": "high",
+          "source_file": "quote.xlsx",
+          "snippet": "Rate (₹/Sq.m)",
+          "value": "SQM"
+        }
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L21..L30"
+}

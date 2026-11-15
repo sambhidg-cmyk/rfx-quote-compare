@@ -1,0 +1,274 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "price_uom": {
+          "locator": "p.1 line 90",
+          "value": "PACK",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "per 100 pcs"
+        },
+        "currency": {
+          "snippet": "46.23",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "Rs.",
+          "confidence": "high",
+          "locator": "p.1 line 91"
+        },
+        "line_id": "L21",
+        "pack_size": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "L-type edge protector 40x40x1.5 mm (per 100 pcs)",
+          "confidence": "high",
+          "locator": "p.1 line 89",
+          "value": 100
+        },
+        "unit_price": {
+          "value": 46.23,
+          "confidence": "high",
+          "snippet": "46.23",
+          "locator": "p.1 line 91",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "line_id": "L22",
+        "pack_size": {
+          "value": 100,
+          "locator": "p.1 line 93",
+          "confidence": "high",
+          "snippet": "Corner board 150x150x5 mm (per 100 pcs)",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "currency": {
+          "snippet": "92.42",
+          "value": "Rs.",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 95",
+          "confidence": "high"
+        },
+        "unit_price": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "92.42",
+          "confidence": "high",
+          "value": 92.42,
+          "locator": "p.1 line 95"
+        },
+        "price_uom": {
+          "value": "PACK",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 94",
+          "snippet": "per 100 pcs"
+        }
+      },
+      {
+        "unit_price": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 99",
+          "confidence": "high",
+          "value": 182.65,
+          "snippet": "182.65"
+        },
+        "status": "quoted",
+        "currency": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "182.65",
+          "locator": "p.1 line 99",
+          "confidence": "high",
+          "value": "Rs."
+        },
+        "price_uom": {
+          "value": "KG",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "per kg",
+          "locator": "p.1 line 98",
+          "confidence": "high"
+        },
+        "line_id": "L23"
+      },
+      {
+        "currency": {
+          "snippet": "194.16",
+          "value": "Rs.",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "locator": "p.1 line 103"
+        },
+        "unit_price": {
+          "snippet": "194.16",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "value": 194.16,
+          "locator": "p.1 line 103"
+        },
+        "price_uom": {
+          "confidence": "high",
+          "locator": "p.1 line 102",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "KG",
+          "snippet": "per kg"
+        },
+        "line_id": "L24",
+        "status": "quoted"
+      },
+      {
+        "unit_price": {
+          "snippet": "87.72",
+          "confidence": "high",
+          "value": 87.72,
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 107"
+        },
+        "currency": {
+          "value": "Rs.",
+          "confidence": "high",
+          "snippet": "87.72",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 107"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "per pc",
+          "locator": "p.1 line 106"
+        },
+        "line_id": "L25"
+      },
+      {
+        "unit_price": {
+          "confidence": "high",
+          "value": 107.83,
+          "snippet": "107.83",
+          "locator": "p.1 line 111",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "line_id": "L26",
+        "status": "quoted",
+        "currency": {
+          "confidence": "high",
+          "locator": "p.1 line 111",
+          "value": "Rs.",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "107.83"
+        },
+        "price_uom": {
+          "snippet": "per pc",
+          "value": "EA",
+          "confidence": "high",
+          "locator": "p.1 line 110",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L27",
+        "unit_price": {
+          "locator": "p.1 line 115",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "value": 632.29,
+          "confidence": "high",
+          "snippet": "632.29"
+        },
+        "currency": {
+          "value": "Rs.",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "632.29",
+          "locator": "p.1 line 115",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "value": "EA",
+          "snippet": "per pc",
+          "locator": "p.1 line 114",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high"
+        }
+      },
+      {
+        "currency": {
+          "locator": "p.1 line 119",
+          "value": "Rs.",
+          "snippet": "1,331.53",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high"
+        },
+        "line_id": "L28",
+        "price_uom": {
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 118",
+          "value": "EA",
+          "snippet": "per pc"
+        },
+        "unit_price": {
+          "locator": "p.1 line 119",
+          "value": 1331.53,
+          "confidence": "high",
+          "snippet": "1,331.53",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "currency": {
+          "locator": "p.1 line 123",
+          "value": "Rs.",
+          "confidence": "high",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "90.84"
+        },
+        "price_uom": {
+          "locator": "p.1 line 122",
+          "value": "EA",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "confidence": "high",
+          "snippet": "per pc"
+        },
+        "unit_price": {
+          "locator": "p.1 line 123",
+          "confidence": "high",
+          "value": 90.84,
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "90.84"
+        },
+        "line_id": "L29"
+      },
+      {
+        "status": "quoted",
+        "line_id": "L30",
+        "currency": {
+          "snippet": "37.09",
+          "confidence": "high",
+          "value": "Rs.",
+          "locator": "p.1 line 127",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf"
+        },
+        "unit_price": {
+          "value": 37.09,
+          "locator": "p.1 line 127",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "snippet": "37.09",
+          "confidence": "high"
+        },
+        "price_uom": {
+          "confidence": "high",
+          "snippet": "per sq m",
+          "value": "SQM",
+          "source_file": "attachments/rate_sheet_fy2025_26.pdf",
+          "locator": "p.1 line 126"
+        }
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L21..L30"
+}

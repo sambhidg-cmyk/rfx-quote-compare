@@ -1,0 +1,305 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "price_uom": {
+          "value": "PACK",
+          "confidence": "med",
+          "snippet": "01 RSC shipper box 1,531.00 per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 1"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "locator": "rate_card_photo.jpg line 1",
+          "value": 1531,
+          "snippet": "01 RSC shipper box 1,531.00 per 100 pcs",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "locator": "rate_card_photo.jpg line 1",
+          "source_file": "rate_card_photo.jpg",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "snippet": "01 RSC shipper box 1,531.00 per 100 pcs",
+          "value": "Rs.",
+          "confidence": "med"
+        },
+        "line_id": "L01",
+        "pack_size": {
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 1",
+          "value": 100,
+          "snippet": "01 RSC shipper box 1,531.00 per 100 pcs",
+          "confidence": "med"
+        }
+      },
+      {
+        "currency": {
+          "snippet": "02 RSC shipper box 20.30 per pc",
+          "confidence": "med",
+          "value": "Rs.",
+          "locator": "rate_card_photo.jpg line 2",
+          "source_file": "rate_card_photo.jpg",
+          "notes": "Currency inferred from Rate (Rs.) header."
+        },
+        "status": "quoted",
+        "price_uom": {
+          "value": "EA",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "02 RSC shipper box 20.30 per pc",
+          "locator": "rate_card_photo.jpg line 2",
+          "confidence": "med"
+        },
+        "unit_price": {
+          "value": 20.3,
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg line 2",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "02 RSC shipper box 20.30 per pc"
+        },
+        "line_id": "L02"
+      },
+      {
+        "price_uom": {
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "03 RSC shipper box 2,521.00 per 100 pcs",
+          "confidence": "med",
+          "value": "PACK",
+          "locator": "rate_card_photo.jpg line 3"
+        },
+        "unit_price": {
+          "locator": "rate_card_photo.jpg line 3",
+          "confidence": "med",
+          "value": 2521,
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "03 RSC shipper box 2,521.00 per 100 pcs"
+        },
+        "currency": {
+          "locator": "rate_card_photo.jpg line 3",
+          "value": "Rs.",
+          "snippet": "03 RSC shipper box 2,521.00 per 100 pcs",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "notes": "Currency inferred from Rate (Rs.) header."
+        },
+        "line_id": "L03",
+        "pack_size": {
+          "locator": "rate_card_photo.jpg line 3",
+          "snippet": "03 RSC shipper box 2,521.00 per 100 pcs",
+          "confidence": "med",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "unit_price": {
+          "value": 28.36,
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 4",
+          "snippet": "04 Mailer box 28.36 per pc"
+        },
+        "line_id": "L04",
+        "currency": {
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "snippet": "04 Mailer box 28.36 per pc",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 4",
+          "confidence": "med"
+        },
+        "price_uom": {
+          "locator": "rate_card_photo.jpg line 4",
+          "value": "EA",
+          "snippet": "04 Mailer box 28.36 per pc",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "line_id": "L05",
+        "status": "quoted",
+        "pack_size": {
+          "locator": "rate_card_photo.jpg line 5",
+          "snippet": "05 Die-cut mailer 1,022.00 per 100 pcs",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 100
+        },
+        "unit_price": {
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 5",
+          "value": 1022,
+          "snippet": "05 Die-cut mailer 1,022.00 per 100 pcs",
+          "confidence": "med"
+        },
+        "currency": {
+          "snippet": "05 Die-cut mailer 1,022.00 per 100 pcs",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "locator": "rate_card_photo.jpg line 5",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Rs."
+        },
+        "price_uom": {
+          "value": "PACK",
+          "confidence": "med",
+          "snippet": "05 Die-cut mailer 1,022.00 per 100 pcs",
+          "locator": "rate_card_photo.jpg line 5",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "price_uom": {
+          "locator": "rate_card_photo.jpg line 6",
+          "confidence": "med",
+          "snippet": "06 Heavy-duty box 54.88 per pc",
+          "source_file": "rate_card_photo.jpg",
+          "value": "EA"
+        },
+        "unit_price": {
+          "snippet": "06 Heavy-duty box 54.88 per pc",
+          "locator": "rate_card_photo.jpg line 6",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": 54.88
+        },
+        "currency": {
+          "locator": "rate_card_photo.jpg line 6",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "snippet": "06 Heavy-duty box 54.88 per pc",
+          "value": "Rs."
+        },
+        "status": "quoted",
+        "line_id": "L06"
+      },
+      {
+        "line_id": "L07",
+        "status": "quoted",
+        "price_uom": {
+          "value": "PACK",
+          "confidence": "med",
+          "snippet": "07 Heavy-duty box 6,379.00 per 100 pcs",
+          "locator": "rate_card_photo.jpg line 7",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "currency": {
+          "snippet": "07 Heavy-duty box 6,379.00 per 100 pcs",
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg line 7",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg"
+        },
+        "pack_size": {
+          "locator": "rate_card_photo.jpg line 7",
+          "value": 100,
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "07 Heavy-duty box 6,379.00 per 100 pcs",
+          "confidence": "med"
+        },
+        "unit_price": {
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg line 7",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "07 Heavy-duty box 6,379.00 per 100 pcs",
+          "value": 6379
+        }
+      },
+      {
+        "line_id": "L08",
+        "status": "quoted",
+        "price_uom": {
+          "locator": "rate_card_photo.jpg line 8",
+          "snippet": "08 Box 42.29 per pc",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "EA"
+        },
+        "unit_price": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 8",
+          "snippet": "08 Box 42.29 per pc",
+          "value": 42.29
+        },
+        "currency": {
+          "snippet": "08 Box 42.29 per pc",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 8",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "value": "Rs."
+        }
+      },
+      {
+        "line_id": "L09",
+        "pack_size": {
+          "confidence": "med",
+          "value": 100,
+          "snippet": "09 Heavy-duty box 12,354.00 per 100 pcs",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 9"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 9",
+          "snippet": "09 Heavy-duty box 12,354.00 per 100 pcs",
+          "value": 12354
+        },
+        "currency": {
+          "confidence": "med",
+          "value": "Rs.",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 9",
+          "snippet": "09 Heavy-duty box 12,354.00 per 100 pcs",
+          "notes": "Currency inferred from Rate (Rs.) header."
+        },
+        "price_uom": {
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "locator": "rate_card_photo.jpg line 9",
+          "value": "PACK",
+          "snippet": "09 Heavy-duty box 12,354.00 per 100 pcs"
+        }
+      },
+      {
+        "status": "quoted",
+        "currency": {
+          "locator": "rate_card_photo.jpg line 10",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "10 Heavy-duty box 143.70 per pc",
+          "notes": "Currency inferred from Rate (Rs.) header.",
+          "confidence": "med",
+          "value": "Rs."
+        },
+        "unit_price": {
+          "confidence": "med",
+          "locator": "rate_card_photo.jpg line 10",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "10 Heavy-duty box 143.70 per pc",
+          "value": 143.7
+        },
+        "line_id": "L10",
+        "price_uom": {
+          "locator": "rate_card_photo.jpg line 10",
+          "value": "EA",
+          "snippet": "10 Heavy-duty box 143.70 per pc",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg"
+        }
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L01..L10"
+}

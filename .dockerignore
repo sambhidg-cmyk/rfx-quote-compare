@@ -1,0 +1,9 @@
+.git
+.env
+**/__pycache__
+**/*.pyc
+.pytest_cache
+data/rfx.db
+data/rfx.db-*
+data/outbox
+data/inbox

@@ -1,0 +1,1644 @@
+{
+  "id": "RFX-2026-PKG-017",
+  "title": "Corrugated packaging supply FY 2027 - Kiranaplus Commerce Pvt. Ltd.",
+  "category": "corrugated_packaging",
+  "terms": {
+    "payment_terms": {
+      "value": "45 days from invoice",
+      "source_file": "rfx/rfx.json",
+      "locator": "terms.payment",
+      "source_snippet": null,
+      "confidence": "high",
+      "extraction_notes": null
+    },
+    "delivery_terms": {
+      "value": "Within 21 days of PO, to Mumbai and Bhiwandi warehouses",
+      "source_file": "rfx/rfx.json",
+      "locator": "terms.delivery",
+      "source_snippet": null,
+      "confidence": "high",
+      "extraction_notes": null
+    },
+    "validity": {
+      "value": "60 days from RFx date",
+      "source_file": "rfx/rfx.json",
+      "locator": "terms.validity",
+      "source_snippet": null,
+      "confidence": "high",
+      "extraction_notes": null
+    },
+    "incoterms": {
+      "value": "DAP",
+      "source_file": "rfx/rfx.json",
+      "locator": "terms.incoterms",
+      "source_snippet": null,
+      "confidence": "high",
+      "extraction_notes": null
+    }
+  },
+  "line_items": [
+    {
+      "id": "L01",
+      "description": {
+        "value": "RSC shipper box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L01].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L01].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L01].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "200",
+            "width_mm": "150",
+            "height_mm": "100"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L01].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "180000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L01].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L01].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L02",
+      "description": {
+        "value": "RSC shipper box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L02].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L02].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L02].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "250",
+            "width_mm": "200",
+            "height_mm": "150"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L02].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "150000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L02].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L02].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L03",
+      "description": {
+        "value": "RSC shipper box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L03].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L03].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L03].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "300",
+            "width_mm": "225",
+            "height_mm": "150"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L03].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": {
+          "value": "1-colour flexo",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L03].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "96000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L03].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L03].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L04",
+      "description": {
+        "value": "Mailer box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L04].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L04].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L04].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "320",
+            "width_mm": "240",
+            "height_mm": "80"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L04].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": {
+          "value": "2-colour flexo",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L04].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "60000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L04].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L04].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L05",
+      "description": {
+        "value": "Die-cut mailer",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L05].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L05].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 120,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L05].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "180",
+            "width_mm": "130",
+            "height_mm": "60"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L05].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "220000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L05].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L05].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L06",
+      "description": {
+        "value": "Heavy-duty box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L06].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L06].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L06].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "400",
+            "width_mm": "300",
+            "height_mm": "300"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L06].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "42000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L06].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L06].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L07",
+      "description": {
+        "value": "Heavy-duty box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L07].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L07].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L07].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "450",
+            "width_mm": "350",
+            "height_mm": "250"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L07].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": {
+          "value": "2-colour flexo",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L07].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "36000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L07].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L07].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L08",
+      "description": {
+        "value": "Box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L08].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L08].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L08].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "350",
+            "width_mm": "250",
+            "height_mm": "200"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L08].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "54000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L08].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L08].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L09",
+      "description": {
+        "value": "Heavy-duty box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L09].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 7,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L09].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 220,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L09].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "600",
+            "width_mm": "400",
+            "height_mm": "400"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L09].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "9000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L09].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L09].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L10",
+      "description": {
+        "value": "Heavy-duty box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L10].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 7,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L10].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 220,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L10].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "550",
+            "width_mm": "450",
+            "height_mm": "350"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L10].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": {
+          "value": "2-colour flexo",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L10].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "7200",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L10].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L10].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L11",
+      "description": {
+        "value": "Box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L11].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L11].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L11].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "500",
+            "width_mm": "400",
+            "height_mm": "150"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L11].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": {
+          "value": "2-colour flexo",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L11].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "22000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L11].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L11].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L12",
+      "description": {
+        "value": "RSC shipper box",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L12].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L12].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 120,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L12].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "280",
+            "width_mm": "200",
+            "height_mm": "100"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L12].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "85000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L12].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L12].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L13",
+      "description": {
+        "value": "Cell partition insert (per 100 pcs)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L13].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L13].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 120,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L13].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "280",
+            "width_mm": "190",
+            "height_mm": null
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L13].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "1500",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L13].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "PACK",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L13].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L14",
+      "description": {
+        "value": "6-cell divider (per 100 pcs)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L14].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L14].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L14].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "400",
+            "width_mm": "300",
+            "height_mm": null
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L14].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "600",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L14].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "PACK",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L14].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L15",
+      "description": {
+        "value": "Corrugated sheet (per sq m)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L15].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L15].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L15].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "180000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L15].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "SQM",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L15].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L16",
+      "description": {
+        "value": "Corrugated sheet (per sq m)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L16].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L16].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L16].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "90000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L16].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "SQM",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L16].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L17",
+      "description": {
+        "value": "Corrugated sheet, pre-printed (per sq m)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L17].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L17].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L17].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": {
+          "value": "1-colour pre-print",
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L17].printing",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        }
+      },
+      "qty": {
+        "value": "40000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L17].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "SQM",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L17].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L18",
+      "description": {
+        "value": "Corrugated roll 1200 mm (per kg)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L18].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L18].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L18].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "110000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L18].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "KG",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L18].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L19",
+      "description": {
+        "value": "Corrugated roll 1200 mm (per kg)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L19].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L19].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L19].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "85000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L19].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "KG",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L19].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L20",
+      "description": {
+        "value": "Corrugated roll 1200 mm (per kg)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L20].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 7,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L20].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 220,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L20].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "18000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L20].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "KG",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L20].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L21",
+      "description": {
+        "value": "L-type edge protector 40x40x1.5 mm (per 100 pcs)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L21].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "2200",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L21].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "PACK",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L21].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L22",
+      "description": {
+        "value": "Corner board 150x150x5 mm (per 100 pcs)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L22].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 5,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L22].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 180,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L22].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "900",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L22].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "PACK",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L22].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L23",
+      "description": {
+        "value": "Machine-grade stretch film 500 mm x 23 micron (per kg)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L23].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "14000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L23].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "KG",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L23].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L24",
+      "description": {
+        "value": "Hand stretch roll 300 mm x 17 micron (per kg)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L24].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "3000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L24].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "KG",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L24].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L25",
+      "description": {
+        "value": "BOPP tape 48 mm x 100 m, clear",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L25].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "60000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L25].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L25].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L26",
+      "description": {
+        "value": "BOPP tape 48 mm x 100 m, printed logo",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L26].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "25000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L26].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L26].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L27",
+      "description": {
+        "value": "Pallet 1200x1000 mm, heat-treated wood, 4-way",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L27].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": {
+          "value": {
+            "length_mm": "1200",
+            "width_mm": "1000",
+            "height_mm": null
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L27].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "1800",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L27].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L27].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L28",
+      "description": {
+        "value": "Pallet 1100x1100 mm, plastic, export grade",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L28].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": null,
+        "gsm": null,
+        "dimensions": {
+          "value": {
+            "length_mm": "1100",
+            "width_mm": "1100",
+            "height_mm": null
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L28].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "400",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L28].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L28].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L29",
+      "description": {
+        "value": "Heavy-duty box, plain",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L29].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 7,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L29].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 220,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L29].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": {
+          "value": {
+            "length_mm": "500",
+            "width_mm": "350",
+            "height_mm": "300"
+          },
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L29].dimensions",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "printing": null
+      },
+      "qty": {
+        "value": "9500",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L29].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "EA",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L29].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    },
+    {
+      "id": "L30",
+      "description": {
+        "value": "Corrugated sheet, high-BF, imported (per sq m)",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L30].description",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "spec": {
+        "ply": {
+          "value": 3,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L30].ply",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "gsm": {
+          "value": 150,
+          "source_file": "rfx/rfx.json",
+          "locator": "line_items[L30].gsm",
+          "source_snippet": null,
+          "confidence": "high",
+          "extraction_notes": null
+        },
+        "dimensions": null,
+        "printing": null
+      },
+      "qty": {
+        "value": "22000",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L30].qty",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      },
+      "uom": {
+        "value": "SQM",
+        "source_file": "rfx/rfx.json",
+        "locator": "line_items[L30].uom",
+        "source_snippet": null,
+        "confidence": "high",
+        "extraction_notes": null
+      }
+    }
+  ],
+  "questionnaire": [
+    {
+      "id": "Q01",
+      "text": "Quality and environmental certifications: ISO 9001 and ISO 14001 (certificate number and validity)",
+      "required": true
+    },
+    {
+      "id": "Q02",
+      "text": "FSC chain-of-custody certification",
+      "required": true
+    },
+    {
+      "id": "Q03",
+      "text": "BIS registration relevant to corrugated packaging (registration number)",
+      "required": true
+    },
+    {
+      "id": "Q04",
+      "text": "In-house testing for ECT, BCT and Cobb (list equipment and standards)",
+      "required": true
+    },
+    {
+      "id": "Q05",
+      "text": "Monthly production capacity (tonnes of corrugated board)",
+      "required": true
+    },
+    {
+      "id": "Q06",
+      "text": "Number of plants and their locations",
+      "required": true
+    },
+    {
+      "id": "Q07",
+      "text": "Standard payment terms (days from invoice)",
+      "required": true
+    },
+    {
+      "id": "Q08",
+      "text": "Lead time for a first purchase order (days from PO)",
+      "required": true
+    },
+    {
+      "id": "Q09",
+      "text": "Three reference customers in FMCG or e-commerce",
+      "required": true
+    },
+    {
+      "id": "Q10",
+      "text": "Sample policy (number of free samples, lead time, cost recovery)",
+      "required": true
+    },
+    {
+      "id": "Q11",
+      "text": "Transit insurance (who arranges it, cover limit)",
+      "required": true
+    },
+    {
+      "id": "Q12",
+      "text": "ESG: recycled-fibre content (%) and renewable share of plant power",
+      "required": true
+    }
+  ]
+}

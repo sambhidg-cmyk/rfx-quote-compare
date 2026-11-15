@@ -1,0 +1,7 @@
+[
+  {"id": "vendor_a", "name": "Vardhan Packaging Works Pvt. Ltd.", "email": "rfq@vardhan.example", "inbound_channel": "email"},
+  {"id": "vendor_b", "name": "Bhiwandi Corrugated Industries LLP", "email": "sales@bhiwandi-corrugated.example", "inbound_channel": "email"},
+  {"id": "vendor_c", "name": "Sahyadri Boxes & Sheets", "email": "orders@sahyadri-boxes.example", "inbound_channel": "email"},
+  {"id": "vendor_d", "name": "Ganesh Kraft Traders", "email": "quotes@ganesh-kraft.example", "inbound_channel": "whatsapp"},
+  {"id": "vendor_e", "name": "Nakoda Paper Packs", "email": "sales@nakodapaperpacks.example", "inbound_channel": "email"}
+]

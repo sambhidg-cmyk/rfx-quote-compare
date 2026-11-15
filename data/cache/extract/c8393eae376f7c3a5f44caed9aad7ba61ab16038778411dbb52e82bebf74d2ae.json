@@ -1,0 +1,278 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "currency": {
+          "locator": "para 17",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "Rs",
+          "snippet": "L11, Box: we offer around Rs 58 per pc."
+        },
+        "status": "quoted",
+        "unit_price": {
+          "source_file": "quote.docx",
+          "snippet": "L11, Box: we offer around Rs 58 per pc.",
+          "value": 58,
+          "confidence": "med",
+          "notes": "Vendor used 'around' in the quote.",
+          "locator": "para 17"
+        },
+        "price_uom": {
+          "value": "EA",
+          "source_file": "quote.docx",
+          "snippet": "L11, Box: we offer around Rs 58 per pc.",
+          "confidence": "high",
+          "locator": "para 17"
+        },
+        "line_id": "L11"
+      },
+      {
+        "currency": {
+          "confidence": "high",
+          "snippet": "L12, RSC shipper box: we offer ₹20.49 per pc.",
+          "source_file": "quote.docx",
+          "value": "₹",
+          "locator": "para 18"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "snippet": "L12, RSC shipper box: we offer ₹20.49 per pc.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "EA",
+          "locator": "para 18"
+        },
+        "line_id": "L12",
+        "unit_price": {
+          "source_file": "quote.docx",
+          "locator": "para 18",
+          "snippet": "L12, RSC shipper box: we offer ₹20.49 per pc.",
+          "confidence": "high",
+          "value": 20.49
+        }
+      },
+      {
+        "status": "quoted",
+        "pack_size": {
+          "confidence": "high",
+          "value": 100,
+          "snippet": "L13, Cell partition insert (per 100 pcs): we offer ₹297.80 per 100 pcs.",
+          "source_file": "quote.docx",
+          "locator": "para 20"
+        },
+        "unit_price": {
+          "snippet": "L13, Cell partition insert (per 100 pcs): we offer ₹297.80 per 100 pcs.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "value": 297.8,
+          "locator": "para 20"
+        },
+        "currency": {
+          "value": "₹",
+          "source_file": "quote.docx",
+          "snippet": "L13, Cell partition insert (per 100 pcs): we offer ₹297.80 per 100 pcs.",
+          "locator": "para 20",
+          "confidence": "high"
+        },
+        "line_id": "L13",
+        "price_uom": {
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 20",
+          "value": "PACK",
+          "snippet": "L13, Cell partition insert (per 100 pcs): we offer ₹297.80 per 100 pcs."
+        }
+      },
+      {
+        "pack_size": {
+          "confidence": "high",
+          "value": 100,
+          "snippet": "L14, 6-cell divider (per 100 pcs): we offer ₹517.92 per 100 pcs.",
+          "locator": "para 21",
+          "source_file": "quote.docx"
+        },
+        "line_id": "L14",
+        "price_uom": {
+          "confidence": "high",
+          "locator": "para 21",
+          "value": "PACK",
+          "snippet": "L14, 6-cell divider (per 100 pcs): we offer ₹517.92 per 100 pcs.",
+          "source_file": "quote.docx"
+        },
+        "status": "quoted",
+        "currency": {
+          "confidence": "high",
+          "snippet": "L14, 6-cell divider (per 100 pcs): we offer ₹517.92 per 100 pcs.",
+          "source_file": "quote.docx",
+          "value": "₹",
+          "locator": "para 21"
+        },
+        "unit_price": {
+          "snippet": "L14, 6-cell divider (per 100 pcs): we offer ₹517.92 per 100 pcs.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": 517.92,
+          "locator": "para 21"
+        }
+      },
+      {
+        "line_id": "L15",
+        "unit_price": {
+          "snippet": "L15, Corrugated sheet (per sq m): we offer ₹26.04 per sq m.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 23",
+          "value": 26.04
+        },
+        "currency": {
+          "locator": "para 23",
+          "source_file": "quote.docx",
+          "value": "₹",
+          "confidence": "high",
+          "snippet": "L15, Corrugated sheet (per sq m): we offer ₹26.04 per sq m."
+        },
+        "price_uom": {
+          "locator": "para 23",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "SQM",
+          "snippet": "L15, Corrugated sheet (per sq m): we offer ₹26.04 per sq m."
+        },
+        "status": "quoted"
+      },
+      {
+        "currency": {
+          "locator": "para 24",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "L16, Corrugated sheet (per sq m): we offer around Rs 44 per sq m.",
+          "value": "Rs"
+        },
+        "line_id": "L16",
+        "price_uom": {
+          "locator": "para 24",
+          "value": "SQM",
+          "source_file": "quote.docx",
+          "snippet": "L16, Corrugated sheet (per sq m): we offer around Rs 44 per sq m.",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "confidence": "med",
+          "locator": "para 24",
+          "value": 44,
+          "snippet": "L16, Corrugated sheet (per sq m): we offer around Rs 44 per sq m.",
+          "source_file": "quote.docx",
+          "notes": "Vendor used 'around' in the quote."
+        }
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "locator": "para 25",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "SQM",
+          "snippet": "L17, Corrugated sheet, pre-printed (per sq m): we offer ₹33.00 per sq m."
+        },
+        "line_id": "L17",
+        "currency": {
+          "value": "₹",
+          "snippet": "L17, Corrugated sheet, pre-printed (per sq m): we offer ₹33.00 per sq m.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 25"
+        },
+        "unit_price": {
+          "value": 33,
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "snippet": "L17, Corrugated sheet, pre-printed (per sq m): we offer ₹33.00 per sq m.",
+          "locator": "para 25"
+        }
+      },
+      {
+        "price_uom": {
+          "snippet": "L18, Corrugated roll 1200 mm (per kg): we offer ₹36.80 per kg.",
+          "source_file": "quote.docx",
+          "locator": "para 28",
+          "value": "KG",
+          "confidence": "high"
+        },
+        "currency": {
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "locator": "para 28",
+          "value": "₹",
+          "snippet": "L18, Corrugated roll 1200 mm (per kg): we offer ₹36.80 per kg."
+        },
+        "status": "quoted",
+        "unit_price": {
+          "source_file": "quote.docx",
+          "snippet": "L18, Corrugated roll 1200 mm (per kg): we offer ₹36.80 per kg.",
+          "confidence": "high",
+          "locator": "para 28",
+          "value": 36.8
+        },
+        "line_id": "L18"
+      },
+      {
+        "line_id": "L19",
+        "currency": {
+          "locator": "para 29",
+          "value": "₹",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "L19, Corrugated roll 1200 mm (per kg): we offer ₹41.00 per kg."
+        },
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "L19, Corrugated roll 1200 mm (per kg): we offer ₹41.00 per kg.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": 41,
+          "locator": "para 29"
+        },
+        "price_uom": {
+          "confidence": "high",
+          "snippet": "L19, Corrugated roll 1200 mm (per kg): we offer ₹41.00 per kg.",
+          "value": "KG",
+          "locator": "para 29",
+          "source_file": "quote.docx"
+        }
+      },
+      {
+        "unit_price": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "snippet": "L20, Corrugated roll 1200 mm (per kg): we offer ₹45.50 per kg.",
+          "value": 45.5,
+          "locator": "para 30"
+        },
+        "currency": {
+          "snippet": "L20, Corrugated roll 1200 mm (per kg): we offer ₹45.50 per kg.",
+          "confidence": "high",
+          "value": "₹",
+          "locator": "para 30",
+          "source_file": "quote.docx"
+        },
+        "price_uom": {
+          "value": "KG",
+          "confidence": "high",
+          "snippet": "L20, Corrugated roll 1200 mm (per kg): we offer ₹45.50 per kg.",
+          "locator": "para 30",
+          "source_file": "quote.docx"
+        },
+        "status": "quoted",
+        "line_id": "L20"
+      }
+    ],
+    "commercial": null,
+    "questionnaire": []
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "lines L11..L20"
+}

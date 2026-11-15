@@ -1,0 +1,204 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "price_uom": {
+          "source_file": "quote.docx",
+          "locator": "para 32",
+          "value": "PACK",
+          "confidence": "high",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs."
+        },
+        "line_id": "L21",
+        "currency": {
+          "source_file": "quote.docx",
+          "value": "₹",
+          "locator": "para 32",
+          "confidence": "high",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs."
+        },
+        "unit_price": {
+          "confidence": "high",
+          "locator": "para 32",
+          "source_file": "quote.docx",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs.",
+          "value": 46.69
+        },
+        "pack_size": {
+          "locator": "para 32",
+          "confidence": "high",
+          "snippet": "L21, L-type edge protector 40x40x1.5 mm (per 100 pcs): we offer ₹46.69 per 100 pcs.",
+          "source_file": "quote.docx",
+          "value": 100
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "not_quoted",
+        "line_id": "L22"
+      },
+      {
+        "line_id": "L23",
+        "price_uom": {
+          "confidence": "high",
+          "snippet": "L23, Machine-grade stretch film 500 mm x 23 micron (per kg): we offer ₹179.85 per kg.",
+          "value": "KG",
+          "source_file": "quote.docx",
+          "locator": "para 35"
+        },
+        "currency": {
+          "locator": "para 35",
+          "value": "₹",
+          "confidence": "high",
+          "snippet": "L23, Machine-grade stretch film 500 mm x 23 micron (per kg): we offer ₹179.85 per kg.",
+          "source_file": "quote.docx"
+        },
+        "unit_price": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "locator": "para 35",
+          "value": 179.85,
+          "snippet": "L23, Machine-grade stretch film 500 mm x 23 micron (per kg): we offer ₹179.85 per kg."
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "line_id": "L24",
+        "unit_price": {
+          "value": 196.86,
+          "locator": "para 36",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "snippet": "L24, Hand stretch roll 300 mm x 17 micron (per kg): we offer ₹196.86 per kg."
+        },
+        "price_uom": {
+          "source_file": "quote.docx",
+          "locator": "para 36",
+          "confidence": "high",
+          "snippet": "L24, Hand stretch roll 300 mm x 17 micron (per kg): we offer ₹196.86 per kg.",
+          "value": "KG"
+        },
+        "currency": {
+          "value": "₹",
+          "locator": "para 36",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "snippet": "L24, Hand stretch roll 300 mm x 17 micron (per kg): we offer ₹196.86 per kg."
+        }
+      },
+      {
+        "unit_price": {
+          "locator": "para 37",
+          "value": 90.5,
+          "confidence": "high",
+          "snippet": "L25, BOPP tape 48 mm x 100 m, clear: we offer ₹90.50 per roll.",
+          "source_file": "quote.docx"
+        },
+        "status": "quoted",
+        "line_id": "L25",
+        "currency": {
+          "locator": "para 37",
+          "source_file": "quote.docx",
+          "value": "₹",
+          "confidence": "high",
+          "snippet": "L25, BOPP tape 48 mm x 100 m, clear: we offer ₹90.50 per roll."
+        },
+        "price_uom": {
+          "source_file": "quote.docx",
+          "snippet": "L25, BOPP tape 48 mm x 100 m, clear: we offer ₹90.50 per roll.",
+          "confidence": "high",
+          "locator": "para 37",
+          "value": "EA"
+        }
+      },
+      {
+        "status": "quoted",
+        "line_id": "L26",
+        "unit_price": {
+          "snippet": "L26, BOPP tape 48 mm x 100 m, printed logo: we offer ₹113.54 per roll.",
+          "confidence": "high",
+          "source_file": "quote.docx",
+          "value": 113.54,
+          "locator": "para 38"
+        },
+        "price_uom": {
+          "locator": "para 38",
+          "value": "EA",
+          "confidence": "high",
+          "snippet": "L26, BOPP tape 48 mm x 100 m, printed logo: we offer ₹113.54 per roll.",
+          "source_file": "quote.docx"
+        },
+        "currency": {
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "value": "₹",
+          "locator": "para 38",
+          "snippet": "L26, BOPP tape 48 mm x 100 m, printed logo: we offer ₹113.54 per roll."
+        }
+      },
+      {
+        "currency": {
+          "value": "₹",
+          "source_file": "quote.docx",
+          "locator": "para 40",
+          "confidence": "high",
+          "snippet": "L27, Pallet 1200x1000 mm, heat-treated wood, 4-way: we offer ₹662.52 per pc."
+        },
+        "status": "quoted",
+        "unit_price": {
+          "value": 662.52,
+          "snippet": "L27, Pallet 1200x1000 mm, heat-treated wood, 4-way: we offer ₹662.52 per pc.",
+          "source_file": "quote.docx",
+          "confidence": "high",
+          "locator": "para 40"
+        },
+        "price_uom": {
+          "locator": "para 40",
+          "source_file": "quote.docx",
+          "value": "EA",
+          "snippet": "L27, Pallet 1200x1000 mm, heat-treated wood, 4-way: we offer ₹662.52 per pc.",
+          "confidence": "high"
+        },
+        "line_id": "L27"
+      },
+      {
+        "line_id": "L28",
+        "status": "not_quoted"
+      },
+      {
+        "status": "not_quoted",
+        "line_id": "L29"
+      },
+      {
+        "line_id": "L30",
+        "unit_price": {
+          "value": 38.37,
+          "locator": "para 26",
+          "confidence": "high",
+          "snippet": "L30, Corrugated sheet, high-BF, imported (per sq m): we offer ₹38.37 per sq m.",
+          "source_file": "quote.docx"
+        },
+        "currency": {
+          "locator": "para 26",
+          "snippet": "L30, Corrugated sheet, high-BF, imported (per sq m): we offer ₹38.37 per sq m.",
+          "value": "₹",
+          "confidence": "high",
+          "source_file": "quote.docx"
+        },
+        "price_uom": {
+          "snippet": "L30, Corrugated sheet, high-BF, imported (per sq m): we offer ₹38.37 per sq m.",
+          "confidence": "high",
+          "value": "SQM",
+          "locator": "para 26",
+          "source_file": "quote.docx"
+        },
+        "status": "quoted"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L21..L30"
+}

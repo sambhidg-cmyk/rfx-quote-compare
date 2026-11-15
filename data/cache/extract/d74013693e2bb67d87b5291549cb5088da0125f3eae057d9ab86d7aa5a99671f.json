@@ -1,0 +1,168 @@
+{
+  "raw": {
+    "questionnaire": [
+      {
+        "question_id": "Q01",
+        "answer": {
+          "locator": "Compliance!C4",
+          "source_file": "quote.xlsx",
+          "snippet": "ISO 9001:2015 cert VPW-QMS-4471, valid to 31-Mar-2027. ISO 14001:2015 cert VPW-EMS-2290, valid to 31-Mar-2027.",
+          "value": "ISO 9001:2015 cert VPW-QMS-4471, valid to 31-Mar-2027. ISO 14001:2015 cert VPW-EMS-2290, valid to 31-Mar-2027.",
+          "confidence": "high"
+        },
+        "status": "answered"
+      },
+      {
+        "question_id": "Q02",
+        "answer": {
+          "locator": "Compliance!C5",
+          "value": "Yes. FSC chain-of-custody licence DEMO-FSC-1182, valid to 30-Jun-2027.",
+          "source_file": "quote.xlsx",
+          "snippet": "Yes. FSC chain-of-custody licence DEMO-FSC-1182, valid to 30-Jun-2027.",
+          "confidence": "high"
+        },
+        "status": "answered"
+      },
+      {
+        "answer": {
+          "locator": "Compliance!C6",
+          "value": "Yes. BIS registration DEMO-BIS-55521.",
+          "source_file": "quote.xlsx",
+          "snippet": "Yes. BIS registration DEMO-BIS-55521.",
+          "confidence": "high"
+        },
+        "status": "answered",
+        "question_id": "Q03"
+      },
+      {
+        "answer": {
+          "value": "Yes. In-house ECT, BCT and Cobb test lab at Plant 1. Equipment list attached.",
+          "locator": "Compliance!C7",
+          "confidence": "high",
+          "snippet": "Yes. In-house ECT, BCT and Cobb test lab at Plant 1. Equipment list attached.",
+          "source_file": "quote.xlsx"
+        },
+        "status": "answered",
+        "question_id": "Q04"
+      },
+      {
+        "question_id": "Q05",
+        "answer": {
+          "locator": "Compliance!C8",
+          "value": "1,450 tonnes per month.",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "snippet": "1,450 tonnes per month."
+        },
+        "status": "answered"
+      },
+      {
+        "answer": {
+          "source_file": "quote.xlsx",
+          "value": "Two plants: Bhiwandi (Maharashtra) and Sanand (Gujarat).",
+          "snippet": "Two plants: Bhiwandi (Maharashtra) and Sanand (Gujarat).",
+          "locator": "Compliance!C9",
+          "confidence": "high"
+        },
+        "status": "answered",
+        "question_id": "Q06"
+      },
+      {
+        "question_id": "Q07",
+        "answer": {
+          "source_file": "quote.xlsx",
+          "snippet": "45 days from invoice.",
+          "locator": "Compliance!C10",
+          "value": "45 days from invoice.",
+          "confidence": "high"
+        },
+        "status": "answered"
+      },
+      {
+        "question_id": "Q08",
+        "answer": {
+          "locator": "Compliance!C11",
+          "value": "12 days from PO.",
+          "confidence": "high",
+          "snippet": "12 days from PO.",
+          "source_file": "quote.xlsx"
+        },
+        "status": "answered"
+      },
+      {
+        "answer": {
+          "value": "Ojas Foods; Trendmart Online; Fabrica Snacks.",
+          "locator": "Compliance!C12",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "snippet": "Ojas Foods; Trendmart Online; Fabrica Snacks."
+        },
+        "status": "answered",
+        "question_id": "Q09"
+      },
+      {
+        "answer": {
+          "snippet": "10 free samples per SKU, 5-day lead time. Cost recovered on bulk order.",
+          "value": "10 free samples per SKU, 5-day lead time. Cost recovered on bulk order.",
+          "source_file": "quote.xlsx",
+          "confidence": "high",
+          "locator": "Compliance!C13"
+        },
+        "status": "answered",
+        "question_id": "Q10"
+      },
+      {
+        "question_id": "Q11",
+        "answer": {
+          "confidence": "high",
+          "snippet": "Vendor arranges transit insurance; cover up to 110% of invoice value.",
+          "value": "Vendor arranges transit insurance; cover up to 110% of invoice value.",
+          "locator": "Compliance!C14",
+          "source_file": "quote.xlsx"
+        },
+        "status": "answered"
+      },
+      {
+        "question_id": "Q12",
+        "answer": {
+          "value": "70% recycled fibre content. 40% of plant power from on-site solar.",
+          "locator": "Compliance!C15",
+          "source_file": "quote.xlsx",
+          "snippet": "70% recycled fibre content. 40% of plant power from on-site solar.",
+          "confidence": "high"
+        },
+        "status": "answered"
+      }
+    ],
+    "commercial": {
+      "payment_terms": {
+        "source_file": "quote.xlsx",
+        "locator": "Compliance!C10",
+        "notes": "Standard payment terms.",
+        "value": 45,
+        "confidence": "high",
+        "snippet": "45 days from invoice."
+      },
+      "lead_time_days": {
+        "snippet": "12 days from PO.",
+        "confidence": "high",
+        "locator": "Compliance!C11",
+        "value": 12,
+        "notes": "Lead time for a first purchase order.",
+        "source_file": "quote.xlsx"
+      },
+      "gst": {
+        "locator": "Rates!H6",
+        "notes": "Rates table lists GST column at 12% for all items.",
+        "value": 12,
+        "confidence": "high",
+        "source_file": "quote.xlsx",
+        "snippet": "12"
+      }
+    }
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "commercial and questionnaire"
+}

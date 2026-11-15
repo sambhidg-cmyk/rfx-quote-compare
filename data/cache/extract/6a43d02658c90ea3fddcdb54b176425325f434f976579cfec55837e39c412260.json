@@ -1,0 +1,165 @@
+{
+  "raw": {
+    "questionnaire": [
+      {
+        "question_id": "Q01",
+        "status": "answered",
+        "answer": {
+          "locator": "COMPLIANCE Q01",
+          "snippet": "Q01: ISO 9001:2015 cert GKT-QMS-7712, valid to 31-Jul-2027. ISO 14001 not held.",
+          "source_file": "rate_card_photo.jpg",
+          "value": "ISO 9001:2015 cert GKT-QMS-7712, valid to 31-Jul-2027. ISO 14001 not held.",
+          "confidence": "med"
+        }
+      },
+      {
+        "answer": {
+          "confidence": "med",
+          "value": "FSC not held.",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Q02: FSC not held.",
+          "locator": "COMPLIANCE Q02"
+        },
+        "status": "answered",
+        "question_id": "Q02"
+      },
+      {
+        "question_id": "Q03",
+        "status": "answered",
+        "answer": {
+          "snippet": "Q03: BIS not held.",
+          "confidence": "med",
+          "locator": "COMPLIANCE Q03",
+          "value": "BIS not held.",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "In-house BCT and ECT press, Cobb tester. Report attached.",
+          "locator": "COMPLIANCE Q04",
+          "snippet": "Q04: In-house BCT and ECT press, Cobb tester. Report attached.",
+          "confidence": "med"
+        },
+        "question_id": "Q04"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q05",
+        "answer": {
+          "value": "700 tonnes per month.",
+          "locator": "COMPLIANCE Q05",
+          "snippet": "Q05: 700 tonnes per month.",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med"
+        }
+      },
+      {
+        "question_id": "Q06",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "Two plants: Bhiwandi and Vapi.",
+          "snippet": "Q06: Two plants: Bhiwandi and Vapi.",
+          "locator": "COMPLIANCE Q06",
+          "confidence": "med"
+        },
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q07",
+        "answer": {
+          "source_file": "rate_card_photo.jpg",
+          "value": "30 days.",
+          "snippet": "Q07: 30 days.",
+          "locator": "COMPLIANCE Q07",
+          "confidence": "med"
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q08",
+        "answer": {
+          "locator": "COMPLIANCE Q08",
+          "snippet": "Q08: 14 days.",
+          "source_file": "rate_card_photo.jpg",
+          "confidence": "med",
+          "value": "14 days."
+        }
+      },
+      {
+        "status": "answered",
+        "question_id": "Q09",
+        "answer": {
+          "value": "Two references, names on request.",
+          "confidence": "med",
+          "locator": "COMPLIANCE Q09",
+          "snippet": "Q09: Two references, names on request.",
+          "source_file": "rate_card_photo.jpg"
+        }
+      },
+      {
+        "answer": {
+          "confidence": "med",
+          "snippet": "Q10: Up to 3 free samples per item, 2-day turnaround.",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Up to 3 free samples per item, 2-day turnaround.",
+          "locator": "COMPLIANCE Q10"
+        },
+        "status": "answered",
+        "question_id": "Q10"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "snippet": "Q11: Buyer arranges insurance.",
+          "locator": "COMPLIANCE Q11",
+          "confidence": "med",
+          "source_file": "rate_card_photo.jpg",
+          "value": "Buyer arranges insurance."
+        },
+        "question_id": "Q11"
+      },
+      {
+        "answer": {
+          "value": "60% recycled content. Solar on two plant roofs.",
+          "source_file": "rate_card_photo.jpg",
+          "snippet": "Q12: 60% recycled content. Solar on two plant roofs.",
+          "confidence": "med",
+          "locator": "COMPLIANCE Q12"
+        },
+        "question_id": "Q12",
+        "status": "answered"
+      }
+    ],
+    "commercial": {
+      "validity": {
+        "source_file": "rate_card_photo.jpg",
+        "locator": "Header line 2",
+        "value": "30 days",
+        "snippet": "Rate card, FY 2026-27 (valid 30 days)",
+        "confidence": "med"
+      },
+      "lead_time_days": {
+        "locator": "COMPLIANCE Q08",
+        "snippet": "Q08: 14 days.",
+        "value": 14,
+        "confidence": "med",
+        "source_file": "rate_card_photo.jpg"
+      },
+      "payment_terms": {
+        "source_file": "rate_card_photo.jpg",
+        "locator": "COMPLIANCE Q07",
+        "value": "30 days",
+        "snippet": "Q07: 30 days.",
+        "confidence": "med"
+      }
+    }
+  },
+  "attempts": 1,
+  "model": "gemini-3-flash-preview",
+  "prompt_version": "extract-v1",
+  "batch": "commercial and questionnaire"
+}

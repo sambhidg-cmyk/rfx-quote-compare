@@ -1,0 +1,204 @@
+{
+  "raw": {
+    "lines": [
+      {
+        "line_id": "L21",
+        "pack_size": {
+          "value": 100,
+          "confidence": "high",
+          "snippet": "per 100 pcs",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 39"
+        },
+        "unit_price": {
+          "snippet": "48.33",
+          "value": 48.33,
+          "locator": "p.2 line 40",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high"
+        },
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "locator": "p.2 line 39",
+          "snippet": "per 100 pcs",
+          "value": "PACK"
+        }
+      },
+      {
+        "line_id": "L22",
+        "status": "quoted",
+        "price_uom": {
+          "locator": "p.2 line 44",
+          "snippet": "per 100 pcs",
+          "confidence": "high",
+          "value": "PACK",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "unit_price": {
+          "snippet": "94.21",
+          "confidence": "high",
+          "locator": "p.2 line 45",
+          "value": 94.21,
+          "source_file": "quote_letterhead.pdf"
+        },
+        "pack_size": {
+          "confidence": "high",
+          "value": 100,
+          "snippet": "per 100 pcs",
+          "locator": "p.2 line 44",
+          "source_file": "quote_letterhead.pdf"
+        }
+      },
+      {
+        "line_id": "L23",
+        "status": "quoted",
+        "price_uom": {
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "per kg",
+          "confidence": "high",
+          "value": "KG",
+          "locator": "p.2 line 50"
+        },
+        "unit_price": {
+          "confidence": "high",
+          "value": 196.62,
+          "locator": "p.2 line 51",
+          "snippet": "196.62",
+          "source_file": "quote_letterhead.pdf"
+        }
+      },
+      {
+        "price_uom": {
+          "snippet": "per kg",
+          "locator": "p.2 line 55",
+          "value": "KG",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "unit_price": {
+          "value": 217.41,
+          "snippet": "217.41",
+          "locator": "p.2 line 56",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "status": "quoted",
+        "line_id": "L24"
+      },
+      {
+        "unit_price": {
+          "locator": "p.2 line 61",
+          "snippet": "96.29",
+          "source_file": "quote_letterhead.pdf",
+          "confidence": "high",
+          "value": 96.29
+        },
+        "line_id": "L25",
+        "price_uom": {
+          "source_file": "quote_letterhead.pdf",
+          "value": "EA",
+          "locator": "p.2 line 60",
+          "snippet": "per pc",
+          "confidence": "high"
+        },
+        "status": "quoted"
+      },
+      {
+        "price_uom": {
+          "confidence": "high",
+          "snippet": "per pc",
+          "value": "EA",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 65"
+        },
+        "status": "quoted",
+        "unit_price": {
+          "locator": "p.2 line 66",
+          "snippet": "117.98",
+          "value": 117.98,
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "line_id": "L26"
+      },
+      {
+        "unit_price": {
+          "locator": "p.2 line 72",
+          "snippet": "706.28",
+          "confidence": "high",
+          "value": 706.28,
+          "source_file": "quote_letterhead.pdf"
+        },
+        "status": "quoted",
+        "line_id": "L27",
+        "price_uom": {
+          "confidence": "high",
+          "value": "EA",
+          "locator": "p.2 line 71",
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "per pc"
+        }
+      },
+      {
+        "price_uom": {
+          "value": "EA",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 76",
+          "snippet": "per pc"
+        },
+        "line_id": "L28",
+        "unit_price": {
+          "value": 1495.83,
+          "source_file": "quote_letterhead.pdf",
+          "snippet": "1,495.83",
+          "confidence": "high",
+          "locator": "p.2 line 77"
+        },
+        "status": "quoted"
+      },
+      {
+        "status": "quoted",
+        "price_uom": {
+          "value": "EA",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 81",
+          "confidence": "high",
+          "snippet": "per pc"
+        },
+        "unit_price": {
+          "snippet": "98.92",
+          "locator": "p.2 line 82",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf",
+          "value": 98.92
+        },
+        "line_id": "L29"
+      },
+      {
+        "status": "quoted",
+        "unit_price": {
+          "snippet": "40.52",
+          "value": 40.52,
+          "locator": "p.2 line 88",
+          "confidence": "high",
+          "source_file": "quote_letterhead.pdf"
+        },
+        "price_uom": {
+          "value": "SQM",
+          "confidence": "high",
+          "snippet": "per sq m",
+          "source_file": "quote_letterhead.pdf",
+          "locator": "p.2 line 87"
+        },
+        "line_id": "L30"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "lines L21..L30"
+}

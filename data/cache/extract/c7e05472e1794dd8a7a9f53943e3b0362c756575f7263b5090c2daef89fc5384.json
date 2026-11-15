@@ -1,0 +1,165 @@
+{
+  "raw": {
+    "commercial": {
+      "lead_time_days": {
+        "source_file": "email.txt",
+        "locator": "line 26",
+        "notes": "10 days from PO.",
+        "confidence": "high",
+        "snippet": "9) 10 days from PO."
+      },
+      "freight": {
+        "confidence": "high",
+        "snippet": "Freight is extra, billed at actuals from Bhiwandi dispatch.",
+        "locator": "line 15",
+        "source_file": "email.txt",
+        "notes": "Billed at actuals from Bhiwandi dispatch."
+      },
+      "payment_terms": {
+        "snippet": "Validity 30 days, payment 30 days net.",
+        "confidence": "high",
+        "source_file": "email.txt",
+        "notes": "30 days net.",
+        "locator": "line 15"
+      },
+      "gst": {
+        "notes": "Excluding GST.",
+        "snippet": "Excluding GST, freight extra.",
+        "confidence": "high",
+        "locator": "line 3",
+        "source_file": "rate_sheet_fy2025_26.pdf"
+      },
+      "validity": {
+        "notes": "30 days.",
+        "source_file": "email.txt",
+        "snippet": "Validity 30 days, payment 30 days net.",
+        "locator": "line 15",
+        "confidence": "high"
+      }
+    },
+    "questionnaire": [
+      {
+        "question_id": "Q01",
+        "status": "answered",
+        "answer": {
+          "confidence": "high",
+          "source_file": "email.txt",
+          "snippet": "1) ISO 9001 yes, certificate to follow. 2) ISO 14001 not yet.",
+          "value": "ISO 9001 yes, ISO 14001 not yet",
+          "locator": "line 18"
+        }
+      },
+      {
+        "question_id": "Q02",
+        "status": "answered",
+        "answer": {
+          "snippet": "3) FSC yes, chain of custody.",
+          "source_file": "email.txt",
+          "value": "FSC yes, chain of custody",
+          "confidence": "high",
+          "locator": "line 20"
+        }
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "snippet": "4) BIS yes, will confirm the number.",
+          "confidence": "high",
+          "locator": "line 21",
+          "value": "BIS yes, will confirm the number",
+          "source_file": "email.txt"
+        },
+        "question_id": "Q03"
+      },
+      {
+        "answer": {
+          "locator": "line 22",
+          "value": "Yes, in-house ECT, BCT and Cobb testing",
+          "source_file": "email.txt",
+          "confidence": "high",
+          "snippet": "5) Yes, in-house ECT, BCT and Cobb testing."
+        },
+        "question_id": "Q04",
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q05",
+        "answer": {
+          "snippet": "6) About 500 MT a month.",
+          "confidence": "high",
+          "source_file": "email.txt",
+          "value": "About 500 MT a month",
+          "locator": "line 23"
+        }
+      },
+      {
+        "answer": {
+          "value": "One plant, Bhiwandi",
+          "source_file": "email.txt",
+          "snippet": "7) One plant, Bhiwandi.",
+          "locator": "line 24",
+          "confidence": "high"
+        },
+        "question_id": "Q06",
+        "status": "answered"
+      },
+      {
+        "question_id": "Q07",
+        "answer": {
+          "value": "30 days net",
+          "source_file": "email.txt",
+          "locator": "line 25",
+          "confidence": "high",
+          "snippet": "8) 30 days net."
+        },
+        "status": "answered"
+      },
+      {
+        "status": "answered",
+        "question_id": "Q08",
+        "answer": {
+          "value": "10 days from PO",
+          "confidence": "high",
+          "locator": "line 26",
+          "snippet": "9) 10 days from PO.",
+          "source_file": "email.txt"
+        }
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "confidence": "high",
+          "value": "Bluecart Retail and Fabrica Snacks",
+          "snippet": "10) Bluecart Retail and Fabrica Snacks.",
+          "locator": "line 27",
+          "source_file": "email.txt"
+        },
+        "question_id": "Q09"
+      },
+      {
+        "status": "answered",
+        "answer": {
+          "snippet": "11) Samples on request; first two free.",
+          "source_file": "email.txt",
+          "confidence": "high",
+          "locator": "line 28",
+          "value": "Samples on request; first two free"
+        },
+        "question_id": "Q10"
+      },
+      {
+        "status": "not_answered",
+        "question_id": "Q11"
+      },
+      {
+        "question_id": "Q12",
+        "status": "not_answered"
+      }
+    ]
+  },
+  "attempts": 2,
+  "model": "gemini-3.1-flash-lite-preview",
+  "prompt_version": "extract-v2",
+  "batch": "commercial and questionnaire"
+}
